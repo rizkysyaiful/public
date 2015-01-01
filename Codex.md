@@ -79,54 +79,34 @@ Quantum realism is a term I first learned from [an article](http://listverse.com
 
 I'm still learning about this and definitely couldn't explain or defend it, but I'm fascinated by the idea and keep thinking about it.
 
-## Beliefs
+## Kepercayaan
 
-### On the purpose of life
-1. We don't have a purpose given to us, but it's okay if we make one up
-2. My self-declared purpose is to enjoy quality time (with myself, with others, and with my interests) by discovering and removing obstacles that hinder quality time
-3. He who dies having experienced the most quality time wins
+### Tentang Tujuan Hidup
+1. Tujuan hidup bisa sesederhana 'hidup'. Dengan begitu, semua yang hidup memiliki tujuan hidup.
+2. Setiap manusia dewasa memilih sendiri tujuan(-tujuan) hidup mereka.
+3. Ada tujuan hidup yang bisa dimengerti dan diadaptasi oleh semua manusia yang terlahir kapanpun di manapun.
+4. Ada pula tujuan hidup yang spesifik pada zaman dan tempat tertentu.
 
-### On personal conduct
-1. I must strive to know what I really believe
-2. I must not dilly-dally
-3. I must be my word
-4. I must have good intentions
-5. I must admit to being the maker of my own meaning
-6. I must not feel sorry for myself
-7. I must have a vision that I'm striving for
-8. I must rally others with my vision
-9. I must tie creativity and experimentation with survival
-10. I must be the change I want to see
-11. I must stake my reputation on my better self
-12. I must be comfortable with the consequences of being who I am
-13. I must make my own advice and take it
-14. I must manage my stress, health, and clarity
-15. I must study my mistakes
-16. I must retry things I don’t like every once in a while
-17. I must go slow, work hard, and avoid shortcuts
-18. I must cultivate quality time with myself, with others, and with my interests
-19. I must face things that make me uncomfortable
+### Tentang Sikap Hidup
+1. Saya harus sayangi diri saya sendiri.
+2. Saya harus sayangi orang-orang di sekitar saya (bukan berarti seluruh orang asing radius sekian meter, tapi semacam tetanggga atau rekan kerja). Pindah ke tempat baru jika tidak memungkinkan.
+3. Saya harus menjaga hubungan dengan orang-orang yang saya sayangi namun sedang tidak di sekitar saya.
+4. Saya harus membuat seragam mungkin latar belakang orang-orang yang saya sayangi, agar sudut pandang yang saya bisa ambil jadi lebih luas.
+4. Saya harus beraktualisasi untuk terus memperbaiki ekosistem (baca: rumah) tempat saya dan mereka yang saya sayangi bernaung.
 
-### On Morality
-1. Being good/moral increasingly becomes our default state as we learn more about the world and are more connected with others
-2. Gay marriage should be legal everywhere
-3. Abortion should be legal everywhere
-4. Assisted suicide should be legal everywhere
-5. Health care should be available and affordable to everyone who needs it
-6. The death penalty should be used in extreme and certain cases to protect the public
-7. Prisons should be about protecting the public, not about punishment
-8. Marijuana should be legal to grow, sell, buy, and carry
-9. Owning a gun should require certification from a firearms officer verifying that they've taken a safety course, are free of criminal record, and pass a psychological mental health check every few years
-10. You don't need to ask permission to take responsibility for something that you find important (but you may not get credit)
+### Tentang Realita
+1. Saya--berikut dunia luar yang saya indra--bisa saja tidak nyata, hanya simulasi/proyeksi dari sesuatu yang lain. Sesuatu yang lain tersebut bisa juga hanya simulasi/proyeksi dari sesuatu yang lain lagi. Begitu seterusnya jika menerima konsep ketidakberhingaan.
+2. Maka, satu-satunya hal yang nyata adalah 'ada sesuatu', saya menganggap 'sesuatu' tersebut sebagai Tuhan.
+3. 'Kesempatan untuk ada' yang sedang saya rasakan sekarang menjadi bukti yang cukup bahwa Tuhan itu pengasih dan penyayang.
+4. Karena poin 3, mengingat poin 1 tidak membuat kehilangan tujuan hidup, melainkan untuk menegur diri ketika terlalu larut dalam kebahagiaan atau kesedihan hidup--atau ketika terlalu merasa memiliki hingga takut kehilangan hidup saya ini. Fondasi yang baik untuk lahirnya sikap-sikap hidup yang baik.
+5. Karena poin 3, Tuhan mengintervensi setiap dunia (tidak hanya dunia yang sedang saya indra ini) dengan mengirimkan utusan-utusan yang bertugas menyebarkan pesan yang berkisar pada poin 1, 2, 3, & 4.
+6. Muhammad putra Abdullah adalah salah satu utusan Tuhan.
 
-### On Spirituality
-1. Frequently remembering we will die increases the quality of our life
-2. Souls don't exist as separate from the physical body
-3. The Gods of organized religion don't exist
-4. Intention can't create reality (it just primes our perception of it)
-5. Astrology is entertainment
-6. Magic and miracles don't exist outside the explanations of science
-7. There is no heaven/hell
+### Tentang Gaya Hidup
+1. Saya hanya mendapatkan keuntungan moneter dari aktualisasi aktif diri saya yang menjadi manfaat bagi orang lain & kapital sektor real yang saya kumpulkan.
+2. Saya hidup dengan konsumsi & kepemilikan barang yang seminimalis, seefektif, & seefisien mungkin.
+3. Saya mengumpulkan kapital sektor real sebanyak mungkin untuk membiayai sikap hidup saya.
+4. 
 
 ### On Science & The Universe
 1. Chances are, we live in a simulation (see digital realism)
@@ -198,7 +178,8 @@ I'm still learning about this and definitely couldn't explain or defend it, but 
 
 ### On Love
 1. Soulmates exist
-2. Love at first sight happens
+2. Soulmates does ceast to exist
+2. Love at first is 
 
 ### Meta
 1. We have very little control over what we believe in
@@ -216,24 +197,10 @@ I'm still learning about this and definitely couldn't explain or defend it, but 
 ### Articles I've come back to a bunch of times
 
 * [Ten Reasons Why Our Universe Is A Virtual Reality](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) - Brian Whitworth
-* [The Technology](http://paulbuchheit.blogspot.com/2014/07/the-technology.html) - Paul Buchheit
-* [Neurons Gone Wild](http://kevinsimler.quora.com/Neurons-Gone-Wild) - Kevin Simler
-* [When We Build](http://vimeo.com/34017777) - Wilson Miner
-* [We Aren't the World](http://www.psmag.com/magazines/magazine-feature-story-magazines/joe-henrich-weird-ultimatum-game-shaking-up-psychology-economics-53135/) - Ethan Watters
-* [The Elephants](https://medium.com/health-the-future/182870501589) - Nick Crocker
-* [Touching the Wild](https://seriouspony.exposure.co/touching-the-wild) - Kathy Sierra
-* [The Crossroads of Should and Must](https://medium.com/medium-long/90c75eb7c5b0) - Elle Luna
-* [Welcome to the Future Nauseous](http://www.ribbonfarm.com/2012/05/09/welcome-to-the-future-nauseous/) - Venkatesh Rao
-* [UX and the Civilizing Process](http://kevinsimler.quora.com/UX-and-the-Civilizing-Process) - Kevin Simler
-* [Navigating Stuckness](http://transom.org/?p=41667) - Jonathan Harris
-* [Stock and Flow](http://snarkmarket.com/2010/4890) - Robin Sloan
-* [WWIC](http://www.ftrain.com/wwic.html) - Paul Ford
-* [Top of Mind](http://www.paulgraham.com/top.html) - Paul Graham
-* [Fish](http://www.robinsloan.com/fish/) - Robin Sloan
 
 ### Books I've read that have changed how I see the world
 
-* [Apologia Socratis] (http://en.wikipedia.org/wiki/Apology_%28Plato%29) - Plato _Baca ini di perpustakaan sekolah. Menyentuh Rizky kecil tentang dunia berpikir kritis_
+* [Apologia Socratis] (http://en.wikipedia.org/wiki/Apology_%28Plato%29) - Plato - _Baca ini di perpustakaan sekolah. Menyentuh Rizky kecil tentang dunia berpikir kritis. Beserta konsekuensi-konsekuensinya._
 * [The Mistery of Capital](http://www.amazon.com/The-Mystery-Capital-Capitalism-Everywhere/dp/0465016154) - Hernando De Soto - _Hadiah ulang tahun dari seseorang saat kelas dua SMA. Ide tentang sistem aset manajemen yang baik sebagai dasar kapitalisme, mendekatkan Rizky kecil ke pragmatisme dibanding idealisme sebagai dasar ekonomi._
 
 ### My own favorite writing
@@ -242,25 +209,27 @@ I'm still learning about this and definitely couldn't explain or defend it, but 
 
 # Monthly Reports
 
-##### Desember 2014:
-*Summary:*
-Pertengahan pertama Desember diisi dengan mencoba 
+#### Desember 2014:
 
-*Quality time:*
+##### Summary:
+* Berhenti kerja setelah sepakat berbeda arah dengan bos terkait 'anak perusahaan' yang akan dirintis. Bukti bahwa sulit ada dua Product Owner dalam bisnis, khususnya yang masih embrionik.
+* Proses melamar pekerjaan ke sebuah komunitas Agile yang berpusat di Eropa. Hampir masuk jika tidak terlalu jujur. Namun tidak menyesal karena sudah jujur. :D
+
+##### Quality time:
 * 19th : Pertama kali naik gunung. Langsung menagih kecantikan-kecantikan gunung. Teman yang baru akrab jadi jauh lebih akrab. :D
 * 28th-29th : Mengobrol panjang dengan mama. Membahas tingkah saya yang tidak menyenangkan saat pulang. Saya dan mama memang sering mengobrol dalam kala kita sedang jatuh. Sekarang giliran saya yang jatuh, dan mama yang mengingatkan untuk mengatur ekspektasi hidup dengan lebih baik (Zen) dan menghargai perbedaan-perbedaan antar manusia. Dari mama pula saya tahu apa yang papa pikirkan demi kebaikan saya. Saya bahagia sekali punya orang tua seperti mereka. :'-)
 
-*Chaos monkeys:*
-* Berhenti kerja setelah sepakat berbeda arah dengan bos terkait 'anak perusahaan' yang akan dirintis. Bukti bahwa sulit ada dua Product Owner dalam bisnis, khususnya yang masih embrionik.
-* Proses melamar pekerjaan ke sebuah komunitas Agile yang berpusat di Eropa. Hampir masuk jika tidak terlalu jujur. Namun tidak menyesal karena sudah jujur. :D
+##### Chaos monkeys:
 * Di tengah akhir Desember saat bantu statup teman (X-Igent) sempat burn-out karena terlalu lelah.
-* Di akhir Desember ingin jualan paket pendampingan EELcommunity.com, tapi ternyata kurang laku. Diduga sulit laku karena tawarannya terlalu baru buat orang awam. Setelah mengobrol coach lain (Arry & Zara) sepakat jualan bukunya dulu. Tidak lakunya dan jadi proses persiapan jualan buku ini juga memperparah burn-out.
-* Sedikit drama saat pulang ke rumah di penghujung Desember. Burn-out jelas-jelas mempengaruhi emosi hubungan-hubungan kita.
+* Di akhir Desember ingin jualan paket pendampingan EELcommunity.com, tapi ternyata kurang laku. Diduga sulit laku karena tawarannya terlalu baru buat orang awam. Setelah mengobrol coach lain (Arry & Zara) sepakat jualan bukunya dulu. Tidak lakunya dan proses persiapan buku ini juga memperparah burn-out.
+* Sedikit drama saat pulang ke rumah di penghujung Desember. Burn-out jelas-jelas mempengaruhi kesehatan hubungan-hubungan kita.
+* Selepas hilang burn-out saya akibat pulang ke Tangerang dan ngobrol dengan mama, saya malah membuat drama di kehidupan orang lain: adik bungsu saya. Saya dengan sengaja membajak HP Putri untuk mengirimkan ke grup-grup Whatsapp dia, cover lagu White Winter Hymnal yang baru saja kita bertiga (bersama adik pertama saya Annisa) rekam. Itu lagu cover yang pertama kita bertiga buat. Saya tahu dia akan stres. Saat melakukannya, saya berharap membantu dia menyadari kalau mengekspresikan diri, tanpa takut penghakiman orang lain, adalah salah satu kebahagiaan dunia. Sampai itu tercapai, saya akan terus harap-harap cemas.
 
-*Outcome of previous goal:*
-Previous goal? Survive. :P Tapi ada deh gol yang khas dari bulan ini. Karena bulan ini berhenti kerja sehingga harus mengembalikan laptop kantor. Setelah sibuk sana sibuk sini, akhirnya sukses juga beli laptop di pertengahan Desember. 
+##### Outcome of previous goal:
+* Previous goal? Survive. :P
+* Tapi ada deh gol yang khas dari bulan ini. Karena bulan ini berhenti kerja sehingga harus mengembalikan laptop kantor lama. Setelah sibuk sana sibuk sini, akhirnya sukses juga beli laptop di pertengahan Desember. 
 
-*New goals:*
+##### New goals:
 * Konsisten dengan Codex Vitae: Bulan lalu tahu Codex Vitae. Memutuskan untuk menulis di tahun 2015. 
 * AgileCampus.org goes MVP (minimum viable product): Terbukti dengan bisa membuka training publik.
 * Testimoo.com goes MVP: Utamanya agar bisa menggunakannya sebagai pendongkrak jualan training & lobi-lobi AgileCampus.org. Juga konsisten dengan branding pribadi yang ingin diangkat.
@@ -269,12 +238,12 @@ Previous goal? Survive. :P Tapi ada deh gol yang khas dari bulan ini. Karena bul
 
 ### 2014: ++----+----+
 
-##### January 2015:
+#### January 2015:
 
-*Quality Time:*
+##### Quality Time:
 * pre-1st: New Year Eve! Salah satu malam tahun baru terbaik dalam hidup sejauh ini. Indah sekali melihat kembang api dari gedung tertinggi di daerah Bandung Barat. Seru juga karena sembari menggila berisik-berisik bersama teman-teman baru di tempat kerja sekarang. Salah satunya sampai membuat tulisan blog tentang ini. http://yurichobilly.blogspot.com/2014/12/gua-vs-tahun-baru-2015.html 
-* 1st: Kegilaan berlanjut dengan obrolan-obrolan bersama teman-teman baru di Indigo Incubator 2014 ini. Dari siang sampai magrib kita mengobrol masalah mendekati wanita, seks, dan cinta.
-* 2nd: Tidur cepat tanggal 1 membuat saya terbagun tengah malam. Ini saya gunakan untuk menulis Codex Vitae. 
+* 1st: Kegilaan berlanjut dengan obrolan-obrolan bersama teman-teman baru di Indigo Incubator 2014 ini. Dari siang sampai magrib kita mengobrol tentang mendekati wanita, seks, cinta, ibu, teori lahirnya konsep pernikahan, homoseksualitas. Di tengah-tengah saya sempat curhat mengenai kehidupan percintaan saya. Nasihat-nasihat Yuricho & Asyraf benar-benar membunyikan bel di dalam diri saya. Sekilas menjelaskan kenapa selama ini saya ditolak atau diacuhkan oleh wanita yang menarik buat saya. Kesimpulan yang didapat: harus lebih banyak lagi jalan dengan wanita. Saat yang hampir tepat sebenarnya. Beri saya waktu beberapa bulan untuk mendirikan fondasi dari bisnis pribadi saya, lalu saya--untuk pertama kalinya--akan menjadikan pencarian wanita menjadi salah satu prioritas hidup. 
+* 2nd: Tidur cepat tanggal 1 Januari membuat saya terbagun tengah malam. Ini saya gunakan untuk menulis Codex Vitae & Monthly Report ini.
 
 # Yearly Reports
 
