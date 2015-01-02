@@ -82,114 +82,82 @@ I'm still learning about this and definitely couldn't explain or defend it, but 
 ## Kepercayaan
 
 ### Tentang Tujuan Hidup
-1. Tujuan hidup bisa sesederhana 'hidup'. Dengan begitu, semua yang hidup memiliki tujuan hidup.
-2. Setiap manusia dewasa memilih sendiri tujuan(-tujuan) hidup mereka.
+1. Tujuan hidup bisa sesederhana 'hidup'. Dengan begitu, hanya makhluk hidup yang sedang dalam proses bunuh diri yang tidak punya tujuan hidup.
+2. Setiap manusia dewasa memilih sendiri tujuan(-tujuan) hidup mereka sendiri.
 3. Ada tujuan hidup yang bisa dimengerti dan diadaptasi oleh semua manusia yang terlahir kapanpun di manapun.
 4. Ada pula tujuan hidup yang spesifik pada zaman dan tempat tertentu.
+5. Tujuan hidup saya adalah selalu dalam kondisi siap mati sembari berusaha hidup selama mungkin.
+   * Agar selalu siap mati, setiap hari harus hidup maksimal sesuai kepercayaan-kepercayaan saya.
+   * Agar hidup selama mungkin, harus sayang badan tingkat tinggi.
+6. Tujuan lain hidup saya adalah menguasai sedalam mungkin tentang manusia--secara individu maupun kolektif--lalu menyebarkannya.
+7. Tujuan lain hidup saya adalah menguasai teknik paling optimal untuk menciptakan solusi baru berbasis teknologi, menggunakannya, lalu menyebarkannya.
 
 ### Tentang Sikap Hidup
 1. Saya harus sayangi diri saya sendiri.
-2. Saya harus sayangi orang-orang di sekitar saya (bukan berarti seluruh orang asing radius sekian meter, tapi semacam tetanggga atau rekan kerja). Pindah ke tempat baru jika tidak memungkinkan.
-3. Saya harus menjaga hubungan dengan orang-orang yang saya sayangi namun sedang tidak di sekitar saya.
-4. Saya harus membuat seragam mungkin latar belakang orang-orang yang saya sayangi, agar sudut pandang yang saya bisa ambil jadi lebih luas.
-4. Saya harus beraktualisasi untuk terus memperbaiki ekosistem (baca: rumah) tempat saya dan mereka yang saya sayangi bernaung.
+2. Saya harus sayangi orang-orang di sekitar saya (bukan berarti seluruh orang asing radius sekian meter, tapi semacam tetanggga atau rekan kerja). Pindah ke tempat baru jika dirasa tidak memungkinkan--orang-orang yang menyebalkan hanya menghabiskan energi hidup saya.
+3. Saya harus menjaga hubungan dengan orang-orang yang saya sayangi, namun sedang tidak sedang di sekitar saya.
+4. Saya harus membuat seberagam mungkin latar belakang himpunan orang yang saya sayangi, agar sudut pandang yang saya bisa ambil di hidup ini jadi lebih luas.
+5. Saya harus beraktualisasi untuk terus memperbaiki ekosistem (baca: rumah) tempat saya dan mereka yang saya sayangi bernaung.
 
 ### Tentang Realita
-1. Saya--berikut dunia luar yang saya indra--bisa saja tidak nyata, hanya simulasi/proyeksi dari sesuatu yang lain. Sesuatu yang lain tersebut bisa juga hanya simulasi/proyeksi dari sesuatu yang lain lagi. Begitu seterusnya jika menerima konsep ketidakberhingaan.
+1. Saya--berikut dunia luar yang saya indra--bisa saja tidak nyata, hanya simulasi/proyeksi/bagian/akibat dari sesuatu yang lain. Sesuatu yang lain tersebut, bisa saja juga simulasi/proyeksi/bagian/akibat dari sesuatu yang lain lagi. Begitu seterusnya jika menerima konsep ketidakberhingaan. Sampai kapanpun, realita yang sebenarnya tidak akan bisa pasti terobservasi. Saya tidak pasti ada.
 2. Maka, satu-satunya hal yang nyata adalah 'ada sesuatu', saya menganggap 'sesuatu' tersebut sebagai Tuhan.
-3. 'Kesempatan untuk ada' yang sedang saya rasakan sekarang menjadi bukti yang cukup bahwa Tuhan itu pengasih dan penyayang.
-4. Karena poin 3, mengingat poin 1 tidak membuat kehilangan tujuan hidup, melainkan untuk menegur diri ketika terlalu larut dalam kebahagiaan atau kesedihan hidup--atau ketika terlalu merasa memiliki hingga takut kehilangan hidup saya ini. Fondasi yang baik untuk lahirnya sikap-sikap hidup yang baik.
-5. Karena poin 3, Tuhan mengintervensi setiap dunia (tidak hanya dunia yang sedang saya indra ini) dengan mengirimkan utusan-utusan yang bertugas menyebarkan pesan yang berkisar pada poin 1, 2, 3, & 4.
-6. Muhammad putra Abdullah adalah salah satu utusan Tuhan.
+3. 'Kesempatan untuk ada dengan kesadaran mandiri dan kehendak bebas' yang sedang saya rasakan sekarang menjadi bukti yang cukup bahwa Tuhan itu pengasih dan penyayang.
+4. Karena poin 3, mengingat-ingat poin 1 tidak membuat kehilangan tujuan hidup, melainkan untuk menegur diri 
+  * ketika terlalu larut dalam suka-cita atau duka-lara hidup,
+  * atau ketika merasa paling benar,
+  * atau ketika terlalu merasa memiliki hingga takut mati/kehilangan.
+5. Poin 1 bisa dikawinkan dengan sikap menghargai/menikmati kesempatan hidup masing-masing (meski fana) dan mengelolanya dengan sebaik-baiknya.
+6. Teguran-teguran diri di poin 4 dan sikap hidup di poin 5 adalah fondasi yang baik untuk lahirnya sikap-sikap hidup lain yang baik.
+7. Karena poin 3, Tuhan mengintervensi setiap dunia (tidak hanya dunia yang sedang saya indra ini) dengan mengirimkan (dengan definisi atau cara apapun itu) utusan-utusan yang bertugas menyebarkan pesan yang berkisar pada poin 1, 2, 3, 4, 5, & 6.
+8. Muhammad putra Abdullah adalah salah satu utusan Tuhan.
 
-### Tentang Gaya Hidup
-1. Saya hanya mendapatkan keuntungan moneter dari aktualisasi aktif diri saya yang menjadi manfaat bagi orang lain & kapital sektor real yang saya kumpulkan.
+### Tentang Ekonomi Pribadi
+1. Saya hanya mendapatkan kompensasi moneter (baca: upah) dari aktualisasi aktif diri saya (poin 5 sikap hidup) dalam menjadi manfaat bagi orang lain & hasil [aset kapital](http://en.wikipedia.org/wiki/Capital_asset) yang saya kumpulkan. Tidak ada tempat untuk hasil curian, riba (contoh: bunga bank), _money game_, atau gaji buta.
 2. Saya hidup dengan konsumsi & kepemilikan barang yang seminimalis, seefektif, & seefisien mungkin.
-3. Saya mengumpulkan kapital sektor real sebanyak mungkin untuk membiayai sikap hidup saya.
-4. 
+3. Sisa kompensasi moneter dari biaya hidup di poin 2 saya gunakan untuk membeli aset kapital.  
+3. Saya mengumpulkan aset kapital sebanyak mungkin untuk membiayai sikap hidup saya. Sebagaimana sikap hidup saya juga yang membuat bisa mengumpulkan kompensasi moneter.
+4. Jika negara, saya adalah negara yang sosialis untuk manusia muda, dan kapitalis untuk manusia dewasa. Saya memberikan pendidikan dan perlindungan kesehatan terbaik untuk anak-anak saya, dan tidak memberikan sepeserpun warisan materi ketika mereka dewasa. Saya menghargai kemampuan mereka untuk mencari penghidupan sendiri dan memastikan mereka terbiasa dengan gaya hidup yang sekedar cukup.
+5. Di akhir hidup saya, aset kapital yang saya kumpulkan saya sumbangkan demi kebaikan bersama.
 
 ### On Science & The Universe
-1. Chances are, we live in a simulation (see digital realism)
-2. Other dimensions and universes exist
-3. Micro and macro evolution happens
-4. Something like the Big Bang happened, and will probably happen again
-5. Something existed before the Big Bang (outside of time and space as we know them)
-6. Nothing in our universe can travel faster than light
-7. The human brain (in its current state of evolution) can't comprehend the universe
-8. We have no cosmic significance
-9. Aliens exist
-10. Non-carbon-based life forms exist
-11. The vast majority of intelligenct beings throughout the universe are probably more akin to robots and cyborgs than organically evolved life
-12. Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not)
+
 
 ### On Health
-1. We can change our behavior and habits (it requires a lot of energy)
-2. Consistently eating well, exercising, and getting enough sleep is the only way to be sustainably healthy
-3. Acupuncture works, somehow
-4. Vaccinations are good for babies and society
+
 
 ### On Technology
-1. Computers will be building better computers than humans by 2050 (the Singularity)
-2. Humans, computers, and Earth will evolve into a super organism by 2200 (if we're still around)
-3. Humans that embrace change (and give up some of their humanity) will survive the Singularity
-4. Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy)
+
 
 ### On The Self
-1. Free will is mostly an illusion (but does exist in limited form)
-2. Pure altruism is an illusion (but kindness is not)
-3. We tell stories in order to create and remember meaning (they fit our brain)
-4. Consciousness is the result of a feedback loop between our story-making cortex and our subconscious, so that it can better predict/act on long-term threats
-5. We are all running an incomplete simulation of the universe in our heads (the soloverse) and usually mistake it for the real universe 
+
 
 ### On Privacy
-1. Privacy is just a side effect of people not being truly connected
-2. People, organizations, and governments will exchange privacy for connection when/if they eventually trust each other
-3. Future-thinking people, organizations, and governments will make great strides towards being more trustworthy in order to earn this privilege of connection by 2050
-4. Giving up our privacy and individuality in exchange for better connection will be the norm by 2050
+
 
 ### On Logic
-1. Most questions have no answer (asking them anyway is sometimes entertaining, but nothing else) 
-2. Logic is a helpful tool, but has flaws and can't be relied on entirely
+
 
 ### On Education
-1. Something will replace universities (as we currently know them) as the majority path towards advanced education by 2030
-2. Playing lots of games (of any kind: video, board, card, other) in your youth will make you smarter than people who don't 
+
 
 ### On Politics & The Economy
-1. It should be easier and more expedient to put neglectful and irresponsible public servants in prison than the average citizen, not slower and more difficult
-2. Most jobs lost between 2008-2012 aren't going to come back, new ones have to be created from scratch (or not)
-3. In the future, working will be more thoroughly decoupled from having the means to live (see disability trends as proxy for this)
-4. We'll have a President that admits to being atheist or agnostic by 2025
-5. Power will be more quickly redistributed when it gets too heavy at the top
+
 
 ### On The Future Of Earth (2100)
-1. Global warming is real and will continue to cause bigger and bigger problems
-2. There will be 10 billion people on the planet at once
-3. 80% of people will live in cities and new mega-cities by 2100
-4. The number of living languages in the world will drop to under 100
-5. Safe, genetically modified foods will become the norm
-6. Coral reefs and the ocean ecosystems are going to break with unknown consequences
-7. Solar will overcome gas and oil in usage
+
 
 ### On Biases
-1. We tend to favor the beautiful
-2. We tend to see what we expect to see
-3. We tend to attribute too much credit to success (and under-credit luck)
+
 
 ### On Love
-1. Soulmates exist
-2. Soulmates does ceast to exist
-2. Love at first is 
+
 
 ### Meta
-1. We have very little control over what we believe in
-2. Some of my beliefs will be proven wrong
-3. I'm willing to be convinced that my beliefs are wrong
-4. Making and maintaining this list is useful and fun (you should do it too)
+
 
 ### Wagers
-1. With Carinna. By 2028, the equivalent of a college education (both in breadth of knowledge and value to career) will be available to anyone with an internet connection.
-2. With Rick Webb. By March 1st, 2016, descendants of Google Glass will be seen regularly in the wild (in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros are in 2013).
+
 
 
 ## Personal Canon
