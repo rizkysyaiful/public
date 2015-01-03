@@ -81,6 +81,14 @@ I'm still learning about this and definitely couldn't explain or defend it, but 
 
 ## Kepercayaan
 
+### Tentang Kepercayaan
+1. Saya percaya, tanpa melupakan bahwa pada dasarnya "Saya tidak tahu...",
+2. sehingga saya menghargai orang yang memiliki kepercayaan yang berbeda.
+3. Saya tidak punya kontrol penuh terhadap kepercayaan saya.
+4. Beberapa dari kepercayaan saya akan terbukti salah.
+5. Saya akan menerima saat kepercayaan saya terbukti salah.
+6. Menulis dan memperbaharui daftar kepercayaan ini adalah kegiatan menyenangkan (kamu juga harus mencobanya).
+
 ### Tentang Tujuan Hidup
 1. Tujuan hidup bisa sesederhana 'hidup'. Dengan begitu, hanya makhluk hidup yang sedang dalam proses bunuh diri yang tidak punya tujuan hidup.
 2. Setiap manusia dewasa memilih sendiri tujuan(-tujuan) hidup mereka sendiri.
@@ -88,77 +96,73 @@ I'm still learning about this and definitely couldn't explain or defend it, but 
 4. Ada pula tujuan hidup yang spesifik pada zaman dan tempat tertentu.
 5. Tujuan hidup saya adalah selalu dalam kondisi siap mati sembari berusaha hidup selama mungkin.
    * Agar selalu siap mati, setiap hari harus hidup maksimal sesuai kepercayaan-kepercayaan saya.
-   * Agar hidup selama mungkin, harus sayang badan tingkat tinggi.
-6. Tujuan lain hidup saya adalah menguasai sedalam mungkin tentang manusia--secara individu maupun kolektif--lalu menyebarkannya.
+   * Agar hidup selama mungkin, harus sayang badan tingkat tinggi dan menghindari resiko yang cukup mematikan.
+6. Tujuan lain hidup saya adalah menguasai sedalam mungkin ilmu tentang kebahagiaan hidup manusia--secara individu maupun kolektif--, menginternalisasikannya, lalu menyebarkannya.
 7. Tujuan lain hidup saya adalah menguasai teknik paling optimal untuk menciptakan solusi baru berbasis teknologi, menggunakannya, lalu menyebarkannya.
+8. Tujuan lain hidup saya adalah membuat saya tidak khawatir sama sekali saat melepaskan anak-anak dan adik-adik saya ke kehidupan mandirinya.
 
 ### Tentang Sikap Hidup
 1. Saya harus sayangi diri saya sendiri.
 2. Saya harus sayangi orang-orang di sekitar saya (bukan berarti seluruh orang asing radius sekian meter, tapi semacam tetanggga atau rekan kerja). Pindah ke tempat baru jika dirasa tidak memungkinkan--orang-orang yang menyebalkan hanya menghabiskan energi hidup saya.
 3. Saya harus menjaga hubungan dengan orang-orang yang saya sayangi, namun sedang tidak sedang di sekitar saya.
 4. Saya harus membuat seberagam mungkin latar belakang himpunan orang yang saya sayangi, agar sudut pandang yang saya bisa ambil di hidup ini jadi lebih luas.
-5. Saya harus beraktualisasi untuk terus memperbaiki ekosistem (baca: rumah) tempat saya dan mereka yang saya sayangi bernaung.
+5. Saya harus beraktualisasi dengan memberikan manfaat kepada orang/pihak lain--beberapa akan saya tuntut kompensasi moneternya.
 
 ### Tentang Realita
-1. Saya--berikut dunia luar yang saya indra--bisa saja tidak nyata, hanya simulasi/proyeksi/bagian/akibat dari sesuatu yang lain. Sesuatu yang lain tersebut, bisa saja juga simulasi/proyeksi/bagian/akibat dari sesuatu yang lain lagi. Begitu seterusnya jika menerima konsep ketidakberhingaan. Sampai kapanpun, realita yang sebenarnya tidak akan bisa pasti terobservasi. Saya tidak pasti ada.
+1. Saya--berikut dunia luar yang saya indra--bisa saja tidak nyata, hanya simulasi/proyeksi/bagian/akibat dari sesuatu yang lain. Sesuatu yang lain tersebut, bisa saja juga simulasi/proyeksi/bagian/akibat dari sesuatu yang lain lagi. Begitu seterusnya jika menerima konsep ketidakberhingaan. Sampai kapanpun, realita yang sebenarnya tidak akan bisa terobservasi. Saya tidak pasti ada.
 2. Maka, satu-satunya hal yang nyata adalah 'ada sesuatu', saya menganggap 'sesuatu' tersebut sebagai Tuhan.
-3. 'Kesempatan untuk ada dengan kesadaran mandiri dan kehendak bebas' yang sedang saya rasakan sekarang menjadi bukti yang cukup bahwa Tuhan itu pengasih dan penyayang.
-4. Karena poin 3, mengingat-ingat poin 1 tidak membuat kehilangan tujuan hidup, melainkan untuk menegur diri 
+3. Diberikannya 'kesempatan untuk ada dengan kesadaran mandiri dan kehendak bebas' membuat saya merasa Tuhan itu pengasih dan penyayang--rasa ini harus sering diinternalisasi, mengingat di poin 2 atribut yang baru diketahui adalah bahwa Tuhan .
+4. Karena ada poin 3, mengingat-ingat poin 1 tidak membuat kehilangan tujuan hidup, melainkan untuk menegur diri 
   * ketika terlalu larut dalam suka-cita atau duka-lara hidup,
-  * atau ketika merasa paling benar,
-  * atau ketika terlalu merasa memiliki hingga takut mati/kehilangan.
-5. Poin 1 bisa dikawinkan dengan sikap menghargai/menikmati kesempatan hidup masing-masing (meski fana) dan mengelolanya dengan sebaik-baiknya.
+  * atau ketika rasa "aku" (ego) sedang melonjak tinggi,
+  * atau ketika terlalu merasa memiliki/mencintai hingga takut mati/kehilangan.
+5. Poin 1 bisa dikawinkan dengan sikap menghargai/menikmati kesempatan hidup masing-masing--meski bisa saja fana--dan mengelolanya dengan sebaik-baiknya.
 6. Teguran-teguran diri di poin 4 dan sikap hidup di poin 5 adalah fondasi yang baik untuk lahirnya sikap-sikap hidup lain yang baik.
-7. Karena poin 3, Tuhan mengintervensi setiap dunia (tidak hanya dunia yang sedang saya indra ini) dengan mengirimkan (dengan definisi atau cara apapun itu) utusan-utusan yang bertugas menyebarkan pesan yang berkisar pada poin 1, 2, 3, 4, 5, & 6.
-8. Muhammad putra Abdullah adalah salah satu utusan Tuhan.
+7. Karena poin 3, saat tidak perlu takut mati di kondisi sedang tidak menerima keadilan akibat perlakuan orang lain. Selama saya hidup saya akan menegakan keadilan sekuatnya, kalaupun belum berhasil dan saya mati, akhirnya akan tetap adil.  
+8. Karena poin 3, Tuhan mengintervensi setiap dunia (tidak hanya dunia yang sedang saya indra ini) dengan mengirimkan--dengan definisi atau cara apapun itu--para pembawa pesan yang bertugas menyebarkan pesan yang berkisar pada poin 1 sampai poin 7.
+9. Muhammad putra Abdullah (lahir tahun 570) adalah salah satu pembawa pesan Tuhan.
+10. Saya menghargai dan mencoba mempraktikan nasihat dari semua orang yang mendasarkan diri pada poin 1 sampai poin 7. (nasihat-nasihat tersebut bisa dibaca di Codex Vitae ini)
 
 ### Tentang Ekonomi Pribadi
-1. Saya hanya mendapatkan kompensasi moneter (baca: upah) dari aktualisasi aktif diri saya (poin 5 sikap hidup) dalam menjadi manfaat bagi orang lain & hasil [aset kapital](http://en.wikipedia.org/wiki/Capital_asset) yang saya kumpulkan. Tidak ada tempat untuk hasil curian, riba (contoh: bunga bank), _money game_, atau gaji buta.
-2. Saya hidup dengan konsumsi & kepemilikan barang yang seminimalis, seefektif, & seefisien mungkin.
-3. Sisa kompensasi moneter dari biaya hidup di poin 2 saya gunakan untuk membeli aset kapital.  
-3. Saya mengumpulkan aset kapital sebanyak mungkin untuk membiayai sikap hidup saya. Sebagaimana sikap hidup saya juga yang membuat bisa mengumpulkan kompensasi moneter.
-4. Jika negara, saya adalah negara yang sosialis untuk manusia muda, dan kapitalis untuk manusia dewasa. Saya memberikan pendidikan dan perlindungan kesehatan terbaik untuk anak-anak saya, dan tidak memberikan sepeserpun warisan materi ketika mereka dewasa. Saya menghargai kemampuan mereka untuk mencari penghidupan sendiri dan memastikan mereka terbiasa dengan gaya hidup yang sekedar cukup.
-5. Di akhir hidup saya, aset kapital yang saya kumpulkan saya sumbangkan demi kebaikan bersama.
+1. Manusia saling terhubung satu sama lain.
+2. Seseorang sepatutnya hanya menuntut kompensasi dari manfaat yang dia berikan ke orang lain, yang juga tidak mengganggu orang lain atau jejaring manusia secara lebih luas. 
+3. Saya hanya mendapatkan kompensasi moneter (contoh: upah) dari aktualisasi aktif diri saya (poin 5 sikap hidup) dalam menjadi manfaat bagi orang lain & hasil pengelolaan [aset kapital](http://en.wikipedia.org/wiki/Capital_asset) yang saya kumpulkan. Tidak ada tempat untuk hasil curian, riba (contoh: bunga bank), _money game_, hasil pengelolaan aset finansial, atau gaji buta.
+4. Saya hidup dengan konsumsi & kepemilikan barang yang seminimalis, seefektif, & seefisien mungkin.
+5. Sisa kompensasi moneter dari biaya hidup di poin 4 saya gunakan untuk membeli aset kapital.  
+6. Saya mengumpulkan aset kapital sebanyak mungkin untuk membiayai sikap hidup (poin 5) saya. Sebagaimana  sikap hidup (poin 5) saya juga yang membuat bisa mendapatkan kompensasi moneter.
+7. Saya memberikan pendidikan dan perlindungan kesehatan terbaik untuk anak-anak saya, dan tidak memberikan sepeserpun warisan materi ketika mereka dewasa. Saya menghargai kemampuan mereka untuk mencari penghidupan sendiri dan memastikan mereka terbiasa dengan gaya hidup yang sekedar cukup.
+8. Di akhir hidup saya, seluruh aset kapital yang saya kumpulkan saya sumbangkan ke badan-badan non-profit yang dikelola secara professional.
 
-### On Science & The Universe
+### Tentang Keluarga
+1. Belahan jiwa adalah level tertinggi dari orang lain yang disayangi.
+2. Sebagaimana menyayangi diri sendiri, kita menerima segala hal tentang belahan jiwa kita (the good, the bad, & the ugly).
+3. Ada belahan jiwa selain orang tua, anak, dan saudara kandung,
+4. tapi tidak eksklusif pada satu orang,
+5. dan tidak langsung besar dari awal--dia muncul dan tumbuh,
+6. dan tidak abadi--bisa hilang dan harus dirawat sepanjang waktu.
+7. Cara menumbuhkan dan merawat belahan jiwa adalah dengan mengalami momen-momen emosional bersama. 
+8. Buat dan jaga pasangan sebagai belahan jiwa non-ikatan-darah terpenting.
+9. Beruntung ada seks dan membesarkan anak kandung, mereka adalah momen-momen emosional yang hanya bisa dilakukan dengan pasangan. Hargai dua hal itu dengan menghindari seks di luar pernikahan.
+10. Keluarga inti merupakan jejaring belahan jiwa terpenting.
+11. Jika dan hanya jika sudah puas dengan kualitas hubungan keluarga inti, buatlah dan kelolalah jejaring belahan jiwa baru.
+12. Karena keterbatasan rentang waktu hidup dan perhatian kita, kita hanya bisa memiliki sedikit jejaring belahan jiwa (atau bisa juga disebut 'keluarga'). Maksimalkan yang sedikit itu.
+13. Meski begitu, setiap waktu yang diinvestasikan tidak akan sia-sia. Karena mayoritas kebahagiaan hidup kita akan bergantung dari jumlah dan kualitas momen-momen kita bersama keluarga.
 
-
-### On Health
-
-
-### On Technology
-
-
-### On The Self
-
-
-### On Privacy
-
-
-### On Logic
-
-
-### On Education
-
-
-### On Politics & The Economy
-
-
-### On The Future Of Earth (2100)
-
-
-### On Biases
-
-
-### On Love
-
-
-### Meta
-
-
-### Wagers
-
-
+### Tentang Nasionalisme dan Negara
+1. Monopoli angkatan bersenjata dan perlindungan mereka adalah anugrah pertama dari negara, hargai itu.
+2. Administrasi yang mengintegrasikan segala urusan kependudukan adalah anugrah kedua dari negara, hargai itu. Desak pemerintah untuk memperbaikinya jika masih buruk--langsung bantu akan lebih baik.
+3. Hilangkan pola pikir zaman kerajaan bahwa penduduk adalah milik pemerintah. Pemerintah Indonesia bahkan tidak memiliki segala kekayaan di tanah, laut, dan udara. Kitalah pemiliknya.
+4. Semakin cerdas warga negara, semakin berkurang peran pemerintah dalam hal menentukan aturan-aturan yang akan mempengaruhi warga negara.
+5. Oleh karena poin 3 & 4, berpartisipasilah seaktif mungkin terhadap perancangan dan penegakan aturan yang mempengaruhi hidup kita, karena kita harus menaati apapun keputusan akhirnya.
+6. Perjuangkan regulasi yang memperluas ruang partisipasi kita terkait poin 4 & 5.
+7. Kebangsaan (ikatan-ikatan kebersamaan) ada jauh sebelum munculnya konsep negara.
+8. Saya punya kebangsaan Indonesia, namun tetap menghargai super-set dan sub-set kebangsaan lain. Untuk super-set, saya punya rasa kebangsaan sebagai bagian umat manusia, sebagai mongoloid, sebagai austronesia, sebagai muslim. Untuk sub-set, saya punya rasa kebangsaan minangkabau, warga yang besar di tangerang.
+9. Cita-cita negara adalah membuat ekosistem yang lebih nyaman dan adil bagi semua penghuninya, bantu wujudkan cita-cita tersebut karena dampaknya akan dirasakan orang-orang yang kita sayangi.
+10. Maka, saat melakukan poin 5, lakukan dengan prioritas sudut pandang kebangsaan Indonesia, sehingga perbedaan menjadi minim dan lebih mudah mencapai titik temu. 
+11. Selalu berasumsi bahwa penjahat akan muncul, khususnya saat akses terhadap aset dikendalikan segelintir orang di mana tidak ada transparansi total.
+12. Oleh karena poin 11, tekan pemeritah untuk meningkatkan transparansi sampai level maksimum.
+13. Oleh karena poin 11, 4 dan filosofi kerja fokus-minimalis, tekan pemerintah untuk meninggalkan urusan-urusan yang tidak memiliki pengaruh signifikan terhadap warga negara.
+14. Buka mata lebar-lebar terhadap perumusan dan penegakan aturan-aturan. Tutup mata rapat-rapat pada hal selain itu. Karena biasanya sisanya hanyalah drama-drama yang tidak bermanfaat atau propaganda-propaganda untuk mempengaruhi penilaian kita.
 
 ## Personal Canon
 
