@@ -7,6 +7,7 @@
 3. **Every year:** Setiap ulang tahun, lakukan Ritual Tahunan
 
 ## Ritual Harian
+Hal-hal yang saya internalisasi setiap hari. 
 Things I’d like to have primed in my brain every morning. Basically attempts to set a part of my brain to always be on the lookout for specific things that I want to be sure to catch. Use my subconscious to my advantage.
 
 1. **Steer toward quality time:** Look for opportunities to enjoy quality time with myself, other people, and my interests.
@@ -39,7 +40,9 @@ Daftar ide-ide yang menyangkut otak. Bisa setuju ataupun tidak setuju, intinya, 
 
 Hasil dari obsesi dengan ide ini adalah tulisan yang kamu baca sekarang.
 
-Pertama kali menemukannya saat membaca tulisan @BusterBenson di Medium tentang [bingkai kerja hidup Hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89). Berdasarkan pengalaman beliau, bingkai hidupnya jadi lebih tahan dengan masalah-masalah yang diluar dugaan--terlebih, malah memanfaatkannya. Salah satu bagian dari Hydra adalah [Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md). Dan wow, keren sekali konsep Codex Vitae itu.
+Pertama kali menemukannya saat membaca tulisan @BusterBenson di Medium tentang [bingkai kerja hidup Hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89). Berdasarkan pengalaman beliau, bingkai hidupnya jadi lebih tahan dengan masalah-masalah yang diluar dugaan--terlebih, malah memanfaatkannya.
+
+Salah satu bagian penting dari Hydra adalah [Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md). Dan wow, keren sekali konsep Codex Vitae itu.
 
 Dalam pandangan saya--belum dikonfirmasi Buster--Codex Vitae terbagi jadi dua bagian besar, pertama adalah 'jangkar'. Di 'jangkar' terdapat bagian-bagian apapun yang pada intinya menggambarkan latar kepribadian/kepercayaan/perasaan/pemikiran penulis pada semua hal **pada saat ini**--sehingga fleksibel untuk diperbarui. 'Jangkar' Buster sendiri terbagi ke 'Ide Favorit' 'Kepercayaan', & 'Tulisan '.
 
@@ -87,6 +90,7 @@ Lengkapnya, sudah saya tulis di [rizkysyaiful.com](http://rizkysyaiful.com/kebah
    * Agar hidup selama mungkin, harus sayang badan tingkat tinggi dan menghindari resiko yang cukup mematikan.
 6. Tujuan lain hidup saya adalah menguasai sedalam mungkin ilmu tentang kebahagiaan hidup manusia--secara individu maupun kolektif--, menginternalisasikannya, lalu menyebarkannya.
 7. Tujuan lain hidup saya adalah menguasai teknik paling optimal untuk menciptakan solusi baru berbasis teknologi, menggunakannya, lalu menyebarkannya.
+8. Kombinasi poin 6 dan 7 adalah menciptakan teknologi yang menyentuh hati manusia.
 8. Tujuan lain hidup saya adalah membuat saya tidak khawatir sama sekali saat melepaskan anak-anak dan adik-adik saya ke kehidupan mandirinya.
 
 ### Tentang Sikap Hidup
@@ -119,6 +123,8 @@ Lengkapnya, sudah saya tulis di [rizkysyaiful.com](http://rizkysyaiful.com/kebah
 4. Saya hidup dengan konsumsi & kepemilikan barang yang seminimalis, seefektif, & seefisien mungkin.
 5. Sisa kompensasi moneter dari biaya hidup di poin 4 saya gunakan untuk membeli aset kapital.  
 6. Saya mengumpulkan aset kapital sebanyak mungkin untuk membiayai sikap hidup (poin 5) saya. Sebagaimana  sikap hidup (poin 5) saya juga yang membuat bisa mendapatkan kompensasi moneter.
+7. Prioritas pertama aset kapital yang dikumpulkan adalah yang bisa membuat saya dan orang-orang yang saya sayangi bertahan hidup saat ada krisis apapun, baik bencana alam maupun ekonomi.
+8. Kepribadian, pengalaman, pengetahuan adalah aset kapital yang sebenarnya. Saya akan memindahkan pantat saya saat waktu dirasa tidak bisa lagi membeli itu semua.
 7. Saya memberikan pendidikan dan perlindungan kesehatan terbaik untuk anak-anak saya, dan tidak memberikan sepeserpun warisan materi ketika mereka dewasa. Saya menghargai kemampuan mereka untuk mencari penghidupan sendiri dan memastikan mereka terbiasa dengan gaya hidup yang sekedar cukup.
 8. Di akhir hidup saya, seluruh aset kapital yang saya kumpulkan saya sumbangkan ke badan-badan non-profit yang dikelola secara profesional.
 
@@ -132,7 +138,7 @@ Lengkapnya, sudah saya tulis di [rizkysyaiful.com](http://rizkysyaiful.com/kebah
 7. Cara menumbuhkan dan merawat belahan jiwa adalah dengan mengalami momen-momen emosional bersama.
 8. Anak-anak dan saudara kandung akan pergi, orang-orang tua akan mati, pasangan lah teman hidup yang terlama dan sebenarnya.
 9. Buat dan jaga pasangan sebagai belahan jiwa non-ikatan-darah terpenting.
-10. Beruntung ada seks dan membesarkan anak kandung, mereka adalah momen-momen emosional yang hanya bisa dilakukan dengan pasangan. Hargai dua hal itu dengan menghindari seks di luar pernikahan.
+10. Beruntung ada seks dan kegiatan membesarkan anak, mereka adalah momen-momen emosional yang hanya bisa dilakukan bersama pasangan. Hargai dua hal itu dengan menghindari seks di luar pernikahan.
 11. Keluarga inti merupakan jejaring belahan jiwa terpenting.
 12. Jika dan hanya jika sudah puas dengan kualitas hubungan keluarga inti, buatlah dan kelolalah jejaring belahan jiwa baru.
 13. Karena keterbatasan rentang waktu hidup dan perhatian kita, kita hanya bisa memiliki sedikit jejaring belahan jiwa (atau bisa juga disebut 'keluarga'). Maksimalkan yang sedikit itu.
@@ -140,12 +146,12 @@ Lengkapnya, sudah saya tulis di [rizkysyaiful.com](http://rizkysyaiful.com/kebah
 
 ### Tentang Nasionalisme dan Negara
 1. Monopoli angkatan bersenjata dan perlindungan mereka adalah anugrah pertama dari negara, hargai itu.
-2. Administrasi yang mengintegrasikan segala urusan kependudukan adalah anugrah kedua dari negara, hargai itu. Desak pemerintah untuk memperbaikinya jika masih buruk--langsung bantu akan lebih baik.
-3. Hilangkan pola pikir zaman kerajaan bahwa penduduk adalah milik pemerintah. Pemerintah Indonesia bahkan tidak memiliki segala kekayaan di tanah, laut, dan udara. Kitalah pemiliknya.
+2. Administrasi yang mengorganisir dan mengintegrasikan segala urusan kependudukan adalah anugrah kedua dari negara, hargai itu. Desak pemerintah untuk memperbaikinya jika masih buruk--langsung bantu akan lebih baik.
+3. Hilangkan pola pikir zaman kerajaan bahwa warga negara adalah milik pemerintah. Pemerintah Indonesia bahkan tidak memiliki segala kekayaan di tanah, laut, dan udara. Kitalah pemiliknya.
 4. Semakin cerdas warga negara, semakin berkurang peran pemerintah dalam hal menentukan aturan-aturan yang akan mempengaruhi warga negara.
-5. Oleh karena poin 3 & 4, berpartisipasilah seaktif mungkin terhadap perancangan dan penegakan aturan yang mempengaruhi hidup kita, karena kita harus menaati apapun keputusan akhirnya.
+5. Oleh karena poin 3 & 4, berpartisipasilah seaktif mungkin terhadap perancangan dan penegakan aturan yang mempengaruhi hidup kita, karena kita harus menaati apapun aturan yang disahkan.
 6. Tekan pemerintah untuk memperluas ruang dan efektifitas partisipasi kita terkait poin 4 & 5.
-7. Pilih orang-orang di pemerintahan **hanya** dari rekam jejak dia. Aturan yang baik akan sia-sia jika tidak ditegakan oleh orang-orang profesional.
+7. Pilih orang-orang di pemerintahan **hanya** dari rekam jejak dia. Aturan yang baik akan sia-sia jika tidak ditegakkan oleh orang-orang profesional.
 8. Tekan pemerintah untuk memperbesar ruang dan kekuasaan kita dalam memilih orang. 
 9. Kebangsaan (ikatan-ikatan kebersamaan) ada jauh sebelum munculnya konsep negara.
 10. Saya punya kebangsaan Indonesia, namun tetap menghargai super-set dan sub-set kebangsaan lain. Untuk super-set, saya punya rasa kebangsaan sebagai bagian umat manusia, sebagai mongoloid, sebagai austronesia, sebagai muslim. Untuk sub-set, saya punya rasa kebangsaan minangkabau, warga yang besar di tangerang.
@@ -157,10 +163,16 @@ Lengkapnya, sudah saya tulis di [rizkysyaiful.com](http://rizkysyaiful.com/kebah
 16. Buka mata lebar-lebar terhadap perumusan dan penegakan aturan-aturan. Tutup mata rapat-rapat pada hal selain itu. Karena biasanya sisanya hanyalah drama-drama yang tidak bermanfaat atau propaganda-propaganda untuk mempengaruhi penilaian kita.
 
 ### Tentang Interaksi
-1. Dekati [kejujuran radikal](http://en.wikipedia.org/wiki/Radical_Honesty) dengan, 
-2. tetap menjaga aturan 'tanpa menyakiti perasaan orang lain'--khususnya yang masih asing dengan kejujuran radikal,
-3. tidak malu-malu mengapresiasi yang baik-baik dari orang lain,
-4. 
+1. Tidak salah untuk 'rapuh' (english: vulnerable) di depan orang lain.
+2. Tidak salah untuk bilang 'tidak tahu'.
+3. Jangan pernah anggap rendah orang yang 'tidak tahu'.
+4. Dekati [kejujuran radikal](http://en.wikipedia.org/wiki/Radical_Honesty) dengan, 
+5. tetap menjaga aturan 'tanpa menyakiti perasaan orang lain'--khususnya yang masih asing dengan kejujuran radikal,
+6. tidak malu-malu mengapresiasi yang baik-baik dari orang lain,
+7. berani menawarkan diri untuk memeberi saran pada orang lain--dan jangan sampai membuat marah.
+8. Ceritakan kebaikan orang di depan yang bersangkutan, lebih-lebih saat yang bersangkutan tidak ada.
+9. Diam saat ada yang mulai menceritakan kejelekan orang lain di belakang. Tunjukan muka tidak nyaman dan tinggalkan saat itu terus berlanjut.
+10. 
 
 ## Personal Canon
 
