@@ -1,13 +1,13 @@
 # Codex Vitae
 
-## How to play
+## Cara Bermain
 
-1. **Every day:** In the morning, read Review Every Day
-2. **Every month:** On the 1st of every month, read Review Every Month
-3. **Every year:** On your birthday, read Review Every Year
+1. **Every day:** Setiap pagi, lakukan Ritual Harian
+2. **Every month:** Setiap tanggal satu, lakukan Ritual Bulanan
+3. **Every year:** Setiap ulang tahun, lakukan Ritual Tahunan
 
-## Review Every Day
-Things I’d like to have primed in my brain every morning. Basically attempts to set a part of my brain to always be on the lookout for specific things that I want to be sure to catch. Use my subconscious to my advantage. 
+## Ritual Harian
+Things I’d like to have primed in my brain every morning. Basically attempts to set a part of my brain to always be on the lookout for specific things that I want to be sure to catch. Use my subconscious to my advantage.
 
 1. **Steer toward quality time:** Look for opportunities to enjoy quality time with myself, other people, and my interests.
 2. **Notice anomalies:** Notice when something is unresolved, unwanted, or in conflict with my beliefs -- resist the urge to move these anomalies into blind spots.
@@ -32,52 +32,40 @@ Things I've learned and want to remind myself of every year on my birthday (May 
 4. Write a new Yearly Review and share
 5. Review/update this list
 
-## Favorite Ideas
-This is an list of ideas that have gotten hopelessly stuck in my brain. 
+## Ide Favorit
+Daftar ide-ide yang menyangkut otak. Bisa setuju ataupun tidak setuju, intinya, saya terobsesi dengan idenya. 
 
-### Codex Vitae
+### Codex Vitae & Bingkai Kerja Hydra
 
-This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is that you write a book, the Codex Vitae or Book of Life, that represents everything you have learned in your life. And it gets stored and read by a privileged few upon your death. Expanding a bit further on it, I think this is a great way of thinking about self-expression and capturing the meaning that we create in our lives. 
+Hasil dari obsesi dengan ide ini adalah tulisan yang kamu baca sekarang.
 
-Posts about this topic: [What would you write in your codex vitae](http://branch.com/b/what-would-you-write-in-your-codex-vitae).
+Pertama kali menemukannya saat membaca tulisan @BusterBenson di Medium tentang [bingkai kerja hidup Hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89). Berdasarkan pengalaman beliau, bingkai hidupnya jadi lebih tahan dengan masalah-masalah yang diluar dugaan--terlebih, malah memanfaatkannya. Salah satu bagian dari Hydra adalah [Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md). Dan wow, keren sekali konsep Codex Vitae itu.
 
-### Quality Time
+Dalam pandangan saya--belum dikonfirmasi Buster--Codex Vitae terbagi jadi dua bagian besar, pertama adalah 'jangkar'. Di 'jangkar' terdapat bagian-bagian apapun yang pada intinya menggambarkan latar kepribadian/kepercayaan/perasaan/pemikiran penulis pada semua hal **pada saat ini**--sehingga fleksibel untuk diperbarui. 'Jangkar' Buster sendiri terbagi ke 'Ide Favorit' 'Kepercayaan', & 'Tulisan '.
 
-My own Codex Vitae's first chapter could possibly be about quality time and its role as the primary ends (and means) for a life well lived. I see 3 kinds of quality time that we should seek out. The first is quality time with our own selves. Know thyself, and in the process find our deep interests and find people that we can connect deeply with. The second is quality time with those interests, and the third is quality time with those people we can connect deeply with. They each feed into each other: you can't really connect deeply with others until you know yourself sufficiently well; often times interests are strengthened by having people you can connect with and share with. It seems pretty ungameable to me. Seek quality time with yourself, your interests, and others and you will not regret anything on your death bed.
+Bagian selanjutnya adalah 'catatan', yang berisi Catatan Bulanan dan Tahunan. Di 'catatan' terdapat rekam jejak momen penting kehidupan penulis, termasuk yang akan mempengaruhi pada perubahaan 'jangkar'. 
 
-Posts about this topic: [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494), [How I track my life](https://medium.com/buster-benson/how-i-track-my-life-7da6f22b8e2c), [Live like a hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89).
+Manfaatnya ada dua:
+* Bagi si penulisnya sendiri, Codex Vitae menjadi fondasi selama menjalani hidup--karena setiap bulan wajib membaca ulang 'jangkar'--dan catatan sejarah selepas meninggal--karena setiap momen penting di suatu hari ada tercatat.
+* Bagi orang selain penulis, Codex Vitae menjadi jendela untuk memahami sisi-sisi terdalam dari penulis.
 
-### Optionality
+Saya pribadi percaya, hanya pemahaman antar-manusia-lah awal dari maaf, sekaligus obat dari konflik.
 
-Or, as Nassim Nicolas Taleb calls it: [antifragility](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/). I like the word optionality because it seems more neutral, almost boring even, and yet it is probably one of the most simple and powerful ideas that I’ve ever encountered. The easiest way to describe it is the degree to which your eggs are in different baskets. 
+Termasuk konflik dengan manusia lain bernama 'diri sendiri'.
 
-The more baskets, and the more eggs, and the more evenly distributed those eggs are in those baskets, the greater your chances that any single event won't wipe you out of eggs entirely, and the greater your chances that one of those eggs is going to be amazing. The beauty of optionality is that it has both protective and self-strengthening qualities. Sticking with the metaphor, say that you have 12 eggs in 1 basket. If something happens to that basket, all of your eggs are doomed (low optionality). On the other hand, say that you have 12 eggs in 6 baskets (2 in each). If something happens to one of the baskets, you still have 10 eggs (higher optionality). Now imagine that you have 12 eggs in 12 baskets, all of the eggs are different colors, and there are monsters that prefer certain colors of eggs for breakfast. As the monsters wake up every morning and have breakfast, the type of eggs that they like will become more rare. There will be more remaining eggs with colors that they don’t like. In a way, the remaining set of eggs has become stronger (less likely to be eaten) than the set was previously. This is how high optionality works. The final twist is that in order for this to really work, it has to have some level of randomness involved… because what if the monster also adapts over time and begins to prefer new colors of eggs? In order for the eggs to be safe from complete elimination, there should be enough variation in the colors that some eggs won’t get eaten, and those eggs will need to hatch and grow and the population of future eggs will represent eggs that are less appetizing to monster. Optionality is the key to natural selection and evolution. It’s also the key to idea generation, investment strategy, product management, and many other things. 
+Hal lain yang keren dari Codex Vitae adalah bagian 'daftar kepercayaan' (bagian dari 'jangkar'). Codex Vitae mengajarkan kita untuk: 
+1. Tidak memaksakan opini kita ke orang lain sebagai fakta.
+3. Menerima kalau kepercayaan-kepercayaan kita berubah sepanjang waktu.
+3. Menerima kalau pendapat-pendapat bertentangan dari orang lain--dengan menganggap itu sebagai kepercayaan.
+4. **Jujur**. Karena kita bebas menulis kepercayaan apapun, tidak ada kepercayaan yang salah, tidak ada proses pengambilan kepercayaan yang salah. Jujurlah ke diri sendiri dan orang lain di Codex Vitae, selama tidak memiliki kepercayaan yang mengancam kehidupan pihak lain--memiliki kepercayaan macam itu jelas hanya mempersulit hidup sendiri.
 
-In practice it seems counter-intuitive to build systems with high optionality. We tend to build systems that converge on a single design over time (see monocultures) because they are predictable and efficient in a given environment. But environments change, and without the ability to predict how those changes will happen ahead of time, optionality is required even in the safest of environments.
+_3 Januari 2015, saya membeli domain codexvitae.com untuk saya pasangkan software MediaWiki agar semua orang bisa menulis dan mengarsipkan perubahaan Codex Vitae dengan mudah--tidak semua orang nyaman dengan GitHub._
 
-Posts about this topic: [Live like a hydra](https://medium.com/better-humans/c02337782a89).
+### Momen: Kebahagiaan Utama Hidup
 
-### Soloverse
+Singkatnya, ide ini dari kisah nyata survey perawat tentang hal yang paling disesali orang-orang sekarat di rumah sakit.
 
-**Soloverse:** This is my word for an idea I'm obsessed with. It goes something like this: the universe is this giant space/time environment that we are all a part of. The *soloverse* is our mental model of that universe that our brain uses to *think about* the universe and everything in it. It turns out, we can’t really think about the universe directly (it’s way too big), we can only think about our mental model of the universe as it exists in our soloverse. Lots of interesting (to me) side effects result from this distinction.
-
-I first came across this idea last year and found some interesting explorations of the idea referenced by the word *umwelt*, which is German for “environment” or “surroundings” and pronounced *oom-velt*. I just made up the term soloverse because it’s easier for me to think of it as a private universe in our minds.
-
-A few thoughts about soloverses:
-
-1. *The soloverse is our local cache of the universe.* When we’re babies, our caches are not very full, and we're forced to take in the full firehose of the universe… unsorted, uncategorized, raw. It’s overwhelming. Our brains are designed to start building this soloverse almost immediately in order to gain some foothold on the raw craziness of all the information coming in. The soloverse is built up from basic building blocks like light and dark, smells, sounds, and eventually patterns (mom, hungry, cold, soft), and then eventually concepts (blanket, food) and meanings (safe, scared, good, bad).
-2. *What we think of as the universe is actually our soloverse.* From these basic building blocks we create beliefs and build simulations that allow us to predict future occurrences (if I cry, mom will come to me). At some point we arrive at a concept of our own selves and other people. “The concept of a person is arguably the most important interface ever developed.” — [Kevin Smokler](http://kevinsimler.quora.com/UX-and-the-Civilizing-Process)
-3. *The soloverse contains gods and archetypes and the self.* Some of our most powerful beliefs and traditional characters (God, the hero, the devil, the wizard, the fairy godmother, even our concept of our self) all exist only in our soloverses. Unicorns, dragons, Santa, astrology, luck, fairness, truth, good and evil, beginning middle and end, physics, etc are all shadows of the structure that our soloverse is running on (our brains, and the pattern matching hierarchies that they are built from) and most likely absent from the universe that they are attempting to model. This quirk is actually really fascinating to explore.
-4. *The soloverse is the most powerful tool we have.* The model of the universe that we each have is highly personal, and idiosyncratic to the experiences we’ve had. There are also large portions of which there is probably lots of overlap (common sense, myths, popular culture, things we learn in school, etc). An unhealthy soloverse will lead to poor/misinformed decision-making. An unhealthy soloverse could be responsible for cruelty, prejudice, hatred, wars, and all kinds of other unfortunate things. What could we do to help ourselves and each other have healthier soloverses? Could we address this issue directly and have an impact?
-5. *A comprehensively complete soloverse must also model every other soloverse that exists.* In order to build a real “to scale” model of the universe it has to also include every other soloverse out there, including itself. We can’t escape our personal soloverse, but we can make it a more hospitable place to live in the meantime.
-
-Posts about this topic: [Universe ↔ Soloverse](https://medium.com/thought-experiments/universe-soloverse-d174549e00d7), [Know thy umwelt](http://wayoftheduck.com/know-thy-umwelt).
-
-### Quantum realism
-
-Quantum realism is a term I first learned from [an article](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) by Brian Whitmore, a senior lecturer in computing at Massey University. The idea is in opposition to "physical realism" (that belief that the physical world we see is real and exists by itself, alone). Quantum realism asserts that the physical world isn't real in itself, but merely the output (or shadow, or result, or projected image) of a quantum reality that is generating it. It's basically a virtual reality, or a simulation.
-
-I'm still learning about this and definitely couldn't explain or defend it, but I'm fascinated by the idea and keep thinking about it.
+Lengkapnya, sudah saya tulis di [rizkysyaiful.com](http://rizkysyaiful.com/kebahagiaan-hidup).
 
 ## Kepercayaan
 
@@ -107,18 +95,19 @@ I'm still learning about this and definitely couldn't explain or defend it, but 
 3. Saya harus menjaga hubungan dengan orang-orang yang saya sayangi, namun sedang tidak sedang di sekitar saya.
 4. Saya harus membuat seberagam mungkin latar belakang himpunan orang yang saya sayangi, agar sudut pandang yang saya bisa ambil di hidup ini jadi lebih luas.
 5. Saya harus beraktualisasi dengan memberikan manfaat kepada orang/pihak lain--beberapa akan saya tuntut kompensasi moneternya.
+6. Saya mewasiatkan agar tubuh saya dijadikan kadever--kecuali saat saya mati sudah surplus kadaver. 
 
 ### Tentang Realita
-1. Saya--berikut dunia luar yang saya indra--bisa saja tidak nyata, hanya simulasi/proyeksi/bagian/akibat dari sesuatu yang lain. Sesuatu yang lain tersebut, bisa saja juga simulasi/proyeksi/bagian/akibat dari sesuatu yang lain lagi. Begitu seterusnya jika menerima konsep ketidakberhingaan. Sampai kapanpun, realita yang sebenarnya tidak akan bisa terobservasi. Saya tidak pasti ada.
+1. Saya--berikut dunia luar yang saya indra--bisa saja tidak nyata, hanya simulasi/proyeksi/bagian/akibat dari sesuatu yang lain. Sesuatu yang lain tersebut, bisa saja juga simulasi/proyeksi/bagian/akibat dari sesuatu yang lain lagi. Begitu seterusnya jika menerima konsep ketidakberhingaan. Sampai kapanpun, realita yang sebenarnya tidak akan bisa terobservasi. **Saya tidak pasti ada.**
 2. Maka, satu-satunya hal yang nyata adalah 'ada sesuatu', saya menganggap 'sesuatu' tersebut sebagai Tuhan.
-3. Diberikannya 'kesempatan untuk ada dengan kesadaran mandiri dan kehendak bebas' membuat saya merasa Tuhan itu pengasih dan penyayang--rasa ini harus sering diinternalisasi, mengingat di poin 2 atribut yang baru diketahui adalah bahwa Tuhan .
+3. Diberikannya 'kesempatan untuk ada dengan kesadaran mandiri dan kehendak bebas' membuat saya merasa Tuhan itu pengasih dan penyayang--harus sering diinternalisasi, mengingat unsur perasaannya lebih dominan di sini.
 4. Karena ada poin 3, mengingat-ingat poin 1 tidak membuat kehilangan tujuan hidup, melainkan untuk menegur diri 
   * ketika terlalu larut dalam suka-cita atau duka-lara hidup,
   * atau ketika rasa "aku" (ego) sedang melonjak tinggi,
   * atau ketika terlalu merasa memiliki/mencintai hingga takut mati/kehilangan.
 5. Poin 1 bisa dikawinkan dengan sikap menghargai/menikmati kesempatan hidup masing-masing--meski bisa saja fana--dan mengelolanya dengan sebaik-baiknya.
 6. Teguran-teguran diri di poin 4 dan sikap hidup di poin 5 adalah fondasi yang baik untuk lahirnya sikap-sikap hidup lain yang baik.
-7. Karena poin 3, saat tidak perlu takut mati di kondisi sedang tidak menerima keadilan akibat perlakuan orang lain. Selama saya hidup saya akan menegakan keadilan sekuatnya, kalaupun belum berhasil dan saya mati, akhirnya akan tetap adil.  
+7. Karena poin 3, saat tidak perlu takut mati di kondisi sedang tidak menerima keadilan akibat perlakuan orang lain. Selama saya hidup saya akan menegakan keadilan sekuatnya, kalaupun belum berhasil dan saya mati, akhirnya akan tetap adil.
 8. Karena poin 3, Tuhan mengintervensi setiap dunia (tidak hanya dunia yang sedang saya indra ini) dengan mengirimkan--dengan definisi atau cara apapun itu--para pembawa pesan yang bertugas menyebarkan pesan yang berkisar pada poin 1 sampai poin 7.
 9. Muhammad putra Abdullah (lahir tahun 570) adalah salah satu pembawa pesan Tuhan.
 10. Saya menghargai dan mencoba mempraktikan nasihat dari semua orang yang mendasarkan diri pada poin 1 sampai poin 7. (nasihat-nasihat tersebut bisa dibaca di Codex Vitae ini)
@@ -131,7 +120,7 @@ I'm still learning about this and definitely couldn't explain or defend it, but 
 5. Sisa kompensasi moneter dari biaya hidup di poin 4 saya gunakan untuk membeli aset kapital.  
 6. Saya mengumpulkan aset kapital sebanyak mungkin untuk membiayai sikap hidup (poin 5) saya. Sebagaimana  sikap hidup (poin 5) saya juga yang membuat bisa mendapatkan kompensasi moneter.
 7. Saya memberikan pendidikan dan perlindungan kesehatan terbaik untuk anak-anak saya, dan tidak memberikan sepeserpun warisan materi ketika mereka dewasa. Saya menghargai kemampuan mereka untuk mencari penghidupan sendiri dan memastikan mereka terbiasa dengan gaya hidup yang sekedar cukup.
-8. Di akhir hidup saya, seluruh aset kapital yang saya kumpulkan saya sumbangkan ke badan-badan non-profit yang dikelola secara professional.
+8. Di akhir hidup saya, seluruh aset kapital yang saya kumpulkan saya sumbangkan ke badan-badan non-profit yang dikelola secara profesional.
 
 ### Tentang Keluarga
 1. Belahan jiwa adalah level tertinggi dari orang lain yang disayangi.
@@ -140,13 +129,14 @@ I'm still learning about this and definitely couldn't explain or defend it, but 
 4. tapi tidak eksklusif pada satu orang,
 5. dan tidak langsung besar dari awal--dia muncul dan tumbuh,
 6. dan tidak abadi--bisa hilang dan harus dirawat sepanjang waktu.
-7. Cara menumbuhkan dan merawat belahan jiwa adalah dengan mengalami momen-momen emosional bersama. 
-8. Buat dan jaga pasangan sebagai belahan jiwa non-ikatan-darah terpenting.
-9. Beruntung ada seks dan membesarkan anak kandung, mereka adalah momen-momen emosional yang hanya bisa dilakukan dengan pasangan. Hargai dua hal itu dengan menghindari seks di luar pernikahan.
-10. Keluarga inti merupakan jejaring belahan jiwa terpenting.
-11. Jika dan hanya jika sudah puas dengan kualitas hubungan keluarga inti, buatlah dan kelolalah jejaring belahan jiwa baru.
-12. Karena keterbatasan rentang waktu hidup dan perhatian kita, kita hanya bisa memiliki sedikit jejaring belahan jiwa (atau bisa juga disebut 'keluarga'). Maksimalkan yang sedikit itu.
-13. Meski begitu, setiap waktu yang diinvestasikan tidak akan sia-sia. Karena mayoritas kebahagiaan hidup kita akan bergantung dari jumlah dan kualitas momen-momen kita bersama keluarga.
+7. Cara menumbuhkan dan merawat belahan jiwa adalah dengan mengalami momen-momen emosional bersama.
+8. Anak-anak dan saudara kandung akan pergi, orang-orang tua akan mati, pasangan lah teman hidup yang terlama dan sebenarnya.
+9. Buat dan jaga pasangan sebagai belahan jiwa non-ikatan-darah terpenting.
+10. Beruntung ada seks dan membesarkan anak kandung, mereka adalah momen-momen emosional yang hanya bisa dilakukan dengan pasangan. Hargai dua hal itu dengan menghindari seks di luar pernikahan.
+11. Keluarga inti merupakan jejaring belahan jiwa terpenting.
+12. Jika dan hanya jika sudah puas dengan kualitas hubungan keluarga inti, buatlah dan kelolalah jejaring belahan jiwa baru.
+13. Karena keterbatasan rentang waktu hidup dan perhatian kita, kita hanya bisa memiliki sedikit jejaring belahan jiwa (atau bisa juga disebut 'keluarga'). Maksimalkan yang sedikit itu.
+14. Meski begitu, setiap waktu yang diinvestasikan tidak akan sia-sia. Karena mayoritas kebahagiaan hidup kita akan bergantung dari jumlah dan kualitas momen-momen kita bersama keluarga.
 
 ### Tentang Nasionalisme dan Negara
 1. Monopoli angkatan bersenjata dan perlindungan mereka adalah anugrah pertama dari negara, hargai itu.
@@ -154,15 +144,23 @@ I'm still learning about this and definitely couldn't explain or defend it, but 
 3. Hilangkan pola pikir zaman kerajaan bahwa penduduk adalah milik pemerintah. Pemerintah Indonesia bahkan tidak memiliki segala kekayaan di tanah, laut, dan udara. Kitalah pemiliknya.
 4. Semakin cerdas warga negara, semakin berkurang peran pemerintah dalam hal menentukan aturan-aturan yang akan mempengaruhi warga negara.
 5. Oleh karena poin 3 & 4, berpartisipasilah seaktif mungkin terhadap perancangan dan penegakan aturan yang mempengaruhi hidup kita, karena kita harus menaati apapun keputusan akhirnya.
-6. Perjuangkan regulasi yang memperluas ruang partisipasi kita terkait poin 4 & 5.
-7. Kebangsaan (ikatan-ikatan kebersamaan) ada jauh sebelum munculnya konsep negara.
-8. Saya punya kebangsaan Indonesia, namun tetap menghargai super-set dan sub-set kebangsaan lain. Untuk super-set, saya punya rasa kebangsaan sebagai bagian umat manusia, sebagai mongoloid, sebagai austronesia, sebagai muslim. Untuk sub-set, saya punya rasa kebangsaan minangkabau, warga yang besar di tangerang.
-9. Cita-cita negara adalah membuat ekosistem yang lebih nyaman dan adil bagi semua penghuninya, bantu wujudkan cita-cita tersebut karena dampaknya akan dirasakan orang-orang yang kita sayangi.
-10. Maka, saat melakukan poin 5, lakukan dengan prioritas sudut pandang kebangsaan Indonesia, sehingga perbedaan menjadi minim dan lebih mudah mencapai titik temu. 
-11. Selalu berasumsi bahwa penjahat akan muncul, khususnya saat akses terhadap aset dikendalikan segelintir orang di mana tidak ada transparansi total.
-12. Oleh karena poin 11, tekan pemeritah untuk meningkatkan transparansi sampai level maksimum.
-13. Oleh karena poin 11, 4 dan filosofi kerja fokus-minimalis, tekan pemerintah untuk meninggalkan urusan-urusan yang tidak memiliki pengaruh signifikan terhadap warga negara.
-14. Buka mata lebar-lebar terhadap perumusan dan penegakan aturan-aturan. Tutup mata rapat-rapat pada hal selain itu. Karena biasanya sisanya hanyalah drama-drama yang tidak bermanfaat atau propaganda-propaganda untuk mempengaruhi penilaian kita.
+6. Tekan pemerintah untuk memperluas ruang dan efektifitas partisipasi kita terkait poin 4 & 5.
+7. Pilih orang-orang di pemerintahan **hanya** dari rekam jejak dia. Aturan yang baik akan sia-sia jika tidak ditegakan oleh orang-orang profesional.
+8. Tekan pemerintah untuk memperbesar ruang dan kekuasaan kita dalam memilih orang. 
+9. Kebangsaan (ikatan-ikatan kebersamaan) ada jauh sebelum munculnya konsep negara.
+10. Saya punya kebangsaan Indonesia, namun tetap menghargai super-set dan sub-set kebangsaan lain. Untuk super-set, saya punya rasa kebangsaan sebagai bagian umat manusia, sebagai mongoloid, sebagai austronesia, sebagai muslim. Untuk sub-set, saya punya rasa kebangsaan minangkabau, warga yang besar di tangerang.
+11. Cita-cita negara adalah membuat ekosistem yang lebih nyaman dan adil bagi semua penghuninya, bantu wujudkan cita-cita tersebut karena dampaknya akan dirasakan orang-orang yang kita sayangi.
+12. Maka, saat melakukan poin 5, lakukan dengan prioritas sudut pandang kebangsaan Indonesia, sehingga perbedaan menjadi minim dan lebih mudah mencapai titik temu. 
+13. Selalu berasumsi bahwa penjahat akan muncul, khususnya saat akses terhadap aset dikendalikan segelintir orang di mana tidak ada transparansi total.
+14. Oleh karena poin 13, tekan pemeritah untuk meningkatkan transparansi sampai level maksimum.
+15. Oleh karena poin 13, 4, dan filosofi kerja fokus-minimalis, tekan pemerintah untuk meninggalkan urusan-urusan yang tidak memiliki pengaruh signifikan terhadap warga negara.
+16. Buka mata lebar-lebar terhadap perumusan dan penegakan aturan-aturan. Tutup mata rapat-rapat pada hal selain itu. Karena biasanya sisanya hanyalah drama-drama yang tidak bermanfaat atau propaganda-propaganda untuk mempengaruhi penilaian kita.
+
+### Tentang Interaksi
+1. Dekati [kejujuran radikal](http://en.wikipedia.org/wiki/Radical_Honesty) dengan, 
+2. tetap menjaga aturan 'tanpa menyakiti perasaan orang lain'--khususnya yang masih asing dengan kejujuran radikal,
+3. tidak malu-malu mengapresiasi yang baik-baik dari orang lain,
+4. 
 
 ## Personal Canon
 
@@ -172,8 +170,8 @@ I'm still learning about this and definitely couldn't explain or defend it, but 
 
 ### Books I've read that have changed how I see the world
 
-* [Apologia Socratis] (http://en.wikipedia.org/wiki/Apology_%28Plato%29) - Plato - _Baca ini di perpustakaan sekolah. Menyentuh Rizky kecil tentang dunia berpikir kritis. Beserta konsekuensi-konsekuensinya._
-* [The Mistery of Capital](http://www.amazon.com/The-Mystery-Capital-Capitalism-Everywhere/dp/0465016154) - Hernando De Soto - _Hadiah ulang tahun dari seseorang saat kelas dua SMA. Ide tentang sistem aset manajemen yang baik sebagai dasar kapitalisme, mendekatkan Rizky kecil ke pragmatisme dibanding idealisme sebagai dasar ekonomi._
+* [Apologia Socratis] (http://en.wikipedia.org/wiki/Apology_%28Plato%29) - Plato - _Baca ini di perpustakaan sekolah. Menyentuh Rizky muda tentang dunia berpikir kritis. Beserta konsekuensi-konsekuensinya._
+* [The Mistery of Capital](http://www.amazon.com/The-Mystery-Capital-Capitalism-Everywhere/dp/0465016154) - Hernando De Soto - _Hadiah ulang tahun dari seseorang saat kelas dua SMA. Ide tentang sistem aset manajemen yang baik sebagai dasar kapitalisme, mendekatkan Rizky muda ke pragmatisme dibanding idealisme sebagai dasar ekonomi._
 
 ### My own favorite writing
 
