@@ -17,7 +17,7 @@ Ritual ini untk menginternalisasi hal-hal penting setiap hari. Pagi hari dipilih
 
 ### 2. Baca
 
-1. **Steer toward quality time:** Look for opportunities to enjoy quality time with myself, other people, and my interests.
+1. **Arahkan diri ke waktu :** Look for opportunities to enjoy quality time with myself, other people, and my interests.
 2. **Notice anomalies:** Notice when something is unresolved, unwanted, or in conflict with my beliefs -- resist the urge to move these anomalies into blind spots.
 3. **Notice the voices:** Many of my beliefs about myself and the world are really just automated voices passing off beliefs that have been hard-coded in my head over time as indisputable facts. I shouldn't assume they're always right.
 4. **Remember the soloverse:** What I think is the universe is actually my mental model of the universe (the soloverse). Don't forget.
@@ -72,15 +72,25 @@ Hal lain yang keren dari Codex Vitae adalah bagian 'daftar kepercayaan' (bagian 
 
 _3 Januari 2015, saya membeli domain codexvitae.com untuk saya pasangkan software MediaWiki agar semua orang bisa menulis dan mengarsipkan perubahaan Codex Vitae dengan mudah--tidak semua orang nyaman dengan GitHub._
 
+
 ### Momen: Kebahagiaan Utama Hidup
 
-Singkatnya, ide ini dari kisah nyata survey perawat tentang hal yang paling disesali orang-orang sekarat di rumah sakit.
+Ide ini bermula dari kisah nyata survey perawat tentang hal yang paling disesali orang-orang sekarat di rumah sakit.
 
-Lengkapnya, sudah saya tulis di [rizkysyaiful.com](http://rizkysyaiful.com/kebahagiaan-hidup).
+Saya mendefiniskan momen sebagai pengalaman berkesan bersama orang-orang saya cintai. Lengkapnya, sudah saya tulis di [rizkysyaiful.com](http://rizkysyaiful.com/kebahagiaan-hidup).
+
+Ide ini lalu ditambah dengan ide Quality Time di Codex Vitae-nya Buster. Beliau juga bilang bahwa yang terpenting dari hidup adalah momen. Bedanya Buster memasukan waktu saat merenung sendiri sebagai momen. Juga waktu saat seseorang melakukan apa yang dia sukai.
+
+Ide yang bagus, karena lebih abstrak dan umum. Tidak terpikir oleh saya, mungkin karena saya lupa bahwa
+
+1. Intim dengan diri sendiri adalah juga intim dengan orang lain.
+2. Apa yang saya sukai banyak yang terkait ke berhubungan langsung dengan orang lain.
+
+Saya mengadopsinya juga.
 
 ### Prima Kausa
 
-Saya punya ikatan spesial dengan ide ini. Dulu sempat memikirkannya secara mandiri waktu SMP (waktu itu belum baca Wikipedia kalau idenya bernama Prima Kausa). Suatu malam sendiri di kamar, saya memutuskan tidak mau menerima agama orang tua saya begitu saja sebagai kebenaran. Lalu saya membayangkan diri saya sebagai anak remaja yang baru keluar dari hutan tempat saya tumbuh sendiri--sebagai simulasi lepas dari doktrin dan dogma apapun.
+Saya punya ikatan spesial dengan ide ini. Dulu sempat memikirkannya secara mandiri waktu SMP (waktu itu belum baca Wikipedia hingga tahu idenya bernama Prima Kausa). Suatu malam sendiri di kamar, saya memutuskan tidak mau menerima agama orang tua saya begitu saja sebagai kebenaran. Lalu saya membayangkan diri saya sebagai anak remaja yang baru keluar dari hutan tempat saya tumbuh sendiri--sebagai simulasi lepas dari doktrin dan dogma apapun.
 
 Bergulat dengan ide "tidak ada tuhan selain Tuhan"-nya Islam membuat saya menemukan menemukan Prima Kausa. 
 
