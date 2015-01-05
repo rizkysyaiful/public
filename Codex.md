@@ -7,8 +7,15 @@
 3. **Every year:** Setiap ulang tahun, lakukan Ritual Tahunan
 
 ## Ritual Harian
-Hal-hal yang saya internalisasi setiap hari. 
-Things I’d like to have primed in my brain every morning. Basically attempts to set a part of my brain to always be on the lookout for specific things that I want to be sure to catch. Use my subconscious to my advantage.
+
+Ritual ini untk menginternalisasi hal-hal penting setiap hari. Pagi hari dipilih karena jumlah energi paling maksimal dan kemudahan untuk memicu gelombang alpha. Seharusnya tidak lama berlangsung dan bisa dilakukan saat kondisi jauh dari peradaban.
+
+### 1. Picu Gelombang Alpha
+
+1. Solat Subuh
+2. Bisa juga dengan musik atau meditasi
+
+### 2. Baca
 
 1. **Steer toward quality time:** Look for opportunities to enjoy quality time with myself, other people, and my interests.
 2. **Notice anomalies:** Notice when something is unresolved, unwanted, or in conflict with my beliefs -- resist the urge to move these anomalies into blind spots.
@@ -44,7 +51,7 @@ Pertama kali menemukannya saat membaca tulisan @BusterBenson di Medium tentang [
 
 Salah satu bagian penting dari Hydra adalah [Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md). Dan wow, keren sekali konsep Codex Vitae itu.
 
-Dalam pandangan saya--belum dikonfirmasi Buster--Codex Vitae terbagi jadi dua bagian besar, pertama adalah 'jangkar'. Di 'jangkar' terdapat bagian-bagian apapun yang pada intinya menggambarkan latar kepribadian/kepercayaan/perasaan/pemikiran penulis pada semua hal **pada saat ini**--sehingga fleksibel untuk diperbarui. 'Jangkar' Buster sendiri terbagi ke 'Ide Favorit' 'Kepercayaan', & 'Tulisan '.
+Dalam pandangan saya--belum dikonfirmasi Buster--Codex Vitae terbagi jadi dua bagian besar, pertama adalah 'jangkar'. Di 'jangkar' terdapat bagian-bagian apapun yang pada intinya menggambarkan latar kepribadian/kepercayaan/perasaan/pemikiran penulis pada semua hal **pada saat ini**--sehingga fleksibel untuk diperbarui. 'Jangkar' Buster sendiri terbagi ke 'Ide Favorit' 'Kepercayaan', & 'Kanon Personal'.
 
 Bagian selanjutnya adalah 'catatan', yang berisi Catatan Bulanan dan Tahunan. Di 'catatan' terdapat rekam jejak momen penting kehidupan penulis, termasuk yang akan mempengaruhi pada perubahaan 'jangkar'. 
 
@@ -57,10 +64,11 @@ Saya pribadi percaya, hanya pemahaman antar-manusia-lah awal dari maaf, sekaligu
 Termasuk konflik dengan manusia lain bernama 'diri sendiri'.
 
 Hal lain yang keren dari Codex Vitae adalah bagian 'daftar kepercayaan' (bagian dari 'jangkar'). Codex Vitae mengajarkan kita untuk: 
+
 1. Tidak memaksakan opini kita ke orang lain sebagai fakta.
 3. Menerima kalau kepercayaan-kepercayaan kita berubah sepanjang waktu.
 3. Menerima kalau pendapat-pendapat bertentangan dari orang lain--dengan menganggap itu sebagai kepercayaan.
-4. **Jujur**. Karena kita bebas menulis kepercayaan apapun, tidak ada kepercayaan yang salah, tidak ada proses pengambilan kepercayaan yang salah. Jujurlah ke diri sendiri dan orang lain di Codex Vitae, selama tidak memiliki kepercayaan yang mengancam kehidupan pihak lain--memiliki kepercayaan macam itu jelas hanya mempersulit hidup sendiri.
+4. **Jujur**. Karena kita bebas menulis kepercayaan apapun, tidak ada kepercayaan yang salah, tidak ada proses pengambilan kepercayaan yang salah. Jujurlah ke diri sendiri dan orang lain di Codex Vitae, selama tidak memiliki kepercayaan yang mengancam kehidupan pihak lain--jelas-jelas kepercayaan macam itu hanya mempersulit hidup sendiri.
 
 _3 Januari 2015, saya membeli domain codexvitae.com untuk saya pasangkan software MediaWiki agar semua orang bisa menulis dan mengarsipkan perubahaan Codex Vitae dengan mudah--tidak semua orang nyaman dengan GitHub._
 
@@ -69,6 +77,42 @@ _3 Januari 2015, saya membeli domain codexvitae.com untuk saya pasangkan softwar
 Singkatnya, ide ini dari kisah nyata survey perawat tentang hal yang paling disesali orang-orang sekarat di rumah sakit.
 
 Lengkapnya, sudah saya tulis di [rizkysyaiful.com](http://rizkysyaiful.com/kebahagiaan-hidup).
+
+### Prima Kausa
+
+Saya punya ikatan spesial dengan ide ini. Dulu sempat memikirkannya secara mandiri waktu SMP (waktu itu belum baca Wikipedia kalau idenya bernama Prima Kausa). Suatu malam sendiri di kamar, saya memutuskan tidak mau menerima agama orang tua saya begitu saja sebagai kebenaran. Lalu saya membayangkan diri saya sebagai anak remaja yang baru keluar dari hutan tempat saya tumbuh sendiri--sebagai simulasi lepas dari doktrin dan dogma apapun.
+
+Bergulat dengan ide "tidak ada tuhan selain Tuhan"-nya Islam membuat saya menemukan menemukan Prima Kausa. 
+
+### Kejujuran Radikal
+
+Jatuh cinta dengan ide ini setelah membaca tulisan James Altucher [Tujuh Hal yang Terjadi Saat Kamu Jujur Sepenuhnya](http://www.jamesaltucher.com/2011/10/7-things-happen-to-you-when-you-are-completely-honest/).
+
+Nampaknya ke depan, ide ini (dan saudara-saudaranya) akan menyebar sebagai tren. Berikut teman-temannya: [kejujuran radikal](http://en.wikipedia.org/wiki/Radical_Honesty), [kekuatan kerapuhan](http://www.ted.com/talks/brene_brown_on_vulnerability?language=en), dll.
+
+### I Love My Self
+
+Lagi-lagi James Altucher. Kali ini dia [mengenalkan saya pada temannya Kamal Ravikant](http://www.jamesaltucher.com/2012/05/love-yourself-as-if-your-life-depended-on-it/). Bang Kamal pernah sakit parah sampai merasa hampir mati. Dia sembuh dengan berulang kali bilang "I love my self", "I love my self", "I love my self", sampai hatinya menjadi nyaman.
+
+Setelah itu dia menulis buku berjudul "Cintai Dirimu, Seolah Hidupmu Bergantung Padanya."
+
+Nampaknya ke depan, ide ini (dan saudara-saudaranya) akan menyebar sebagai tren. Berikut salah satu saudaranya [orang yang benar-benar harus kamu nikahi](https://www.youtube.com/watch?v=P3fIZuW9P_M).
+
+### Kalama Sutta
+
+Saat berkunjung ke kampung Kalama, Siddharta Gautama menemukan orang-orang mengeluh. Mereka kebingungan karena selama ini banyak pendakwah datang silih berganti menceritakan hal yang berbeda. Buruknya, mereka bahkan saling menjelek-jelekan satu sama lain.
+
+Siddharta Gautama--sebagai salah satu pendakwah lain--memberi nasihat yang kira-kira berbunyi, "jangan percaya pada siapapun, termasuk pada saya, temukan sendiri." Lengkapnya silahkan baca laman [Wikipedia ini](http://en.wikipedia.org/wiki/Kalama_Sutta#Discerning_Religious_Teachings).
+
+Menemukan sedikit hubungannya dengan Codex Vitae? Ternyata ide semacam-semacam ini sudah ada sejak 2,5 abad lalu.
+
+### Hidup adalah Penderitaan
+
+Berbeda dengan Kalama Sutta, kali ini saya tidak setuju dengan Bang Sidd, yang bilang bahwa hidup itu adalah penderitaan. (Paralel dengan ide Schopenhaur dan Soe Hoe Gie bahwa anugrah terbaik adalah tidak pernah dilahirkan.)
+
+Saya belum bisa menjelaskan dengan gamblang. Sejauh ini meski kadang-kadang menderita, saya merasa hidup bukan penderitaan. Padahal saya sudah membayangkan kondisi-kondisi terburuk yang mungkin terjadi pada saya.
+
+Mungkin hanya karena saya tidak ingin.
 
 ## Kepercayaan
 
@@ -137,7 +181,7 @@ Lengkapnya, sudah saya tulis di [rizkysyaiful.com](http://rizkysyaiful.com/kebah
 6. dan tidak abadi--bisa hilang dan harus dirawat sepanjang waktu.
 7. Cara menumbuhkan dan merawat belahan jiwa adalah dengan mengalami momen-momen emosional bersama.
 8. Anak-anak dan saudara kandung akan pergi, orang-orang tua akan mati, pasangan lah teman hidup yang terlama dan sebenarnya.
-9. Buat dan jaga pasangan sebagai belahan jiwa non-ikatan-darah terpenting.
+9. Buat dan jaga pasangan sebagai belahan jiwa non-ikatan-darah terpenting. (Dengarkan dan resapi lirik lagu [Worth It](https://www.youtube.com/watch?v=-wsHWyIERek))
 10. Beruntung ada seks dan kegiatan membesarkan anak, mereka adalah momen-momen emosional yang hanya bisa dilakukan bersama pasangan. Hargai dua hal itu dengan menghindari seks di luar pernikahan.
 11. Keluarga inti merupakan jejaring belahan jiwa terpenting.
 12. Jika dan hanya jika sudah puas dengan kualitas hubungan keluarga inti, buatlah dan kelolalah jejaring belahan jiwa baru.
