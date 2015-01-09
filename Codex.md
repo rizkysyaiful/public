@@ -15,14 +15,16 @@ Ritual ini untk menginternalisasi hal-hal penting setiap hari. Pagi hari dipilih
 1. Solat Subuh
 2. Bisa juga dengan musik atau meditasi
 
-### 2. Baca
+### 2. Baca Mantra
 
-1. **Arahkan diri ke waktu :** Look for opportunities to enjoy quality time with myself, other people, and my interests.
-2. **Notice anomalies:** Notice when something is unresolved, unwanted, or in conflict with my beliefs -- resist the urge to move these anomalies into blind spots.
-3. **Notice the voices:** Many of my beliefs about myself and the world are really just automated voices passing off beliefs that have been hard-coded in my head over time as indisputable facts. I shouldn't assume they're always right.
-4. **Remember the soloverse:** What I think is the universe is actually my mental model of the universe (the soloverse). Don't forget.
+1. **MOMEN!:** Hey Rizky! Pindahkan pantat ke tempat yang peluang momen lebih besar terjadi. Jika ada penghambat dari diri sendiri, minimalisir dulu hambatan tersebut.
+2. **TARIK NAPAS!:** Hey Rizky! Buka mata dan telinga lebar-lebar. Berhenti dan tarik napas dalam-dalam kalau terjadi sesuatu yang bertentangan dengan kepercayaan-kepercayaan mu.
+3. **HEMBUSKAN!:** Hampir semua kepercayaan-kepercayan tentang saya dan dunia ini hanyalah suara-suara yang melewati otak saya dan 
+4. 
+5. Many of my beliefs about myself and the world are really just automated voices passing off beliefs that have been hard-coded in my head over time as indisputable facts. I shouldn't assume they're always right.
 
 ## Review Every Month 
+Hal-hal yang 
 Things I’d like to check in on the 1st of every month.
 
 1. Review my Favorite Ideas
@@ -83,7 +85,7 @@ Ide ini lalu ditambah dengan ide Quality Time di Codex Vitae-nya Buster. Beliau 
 
 Ide yang bagus, karena lebih abstrak dan umum. Tidak terpikir oleh saya, mungkin karena saya lupa bahwa
 
-1. Intim dengan diri sendiri adalah juga intim dengan orang lain.
+1. Intim dengan diri sendiri adalah juga intim dengan seseorang.
 2. Apa yang saya sukai banyak yang terkait ke berhubungan langsung dengan orang lain.
 
 Saya mengadopsinya juga.
@@ -280,6 +282,8 @@ Mungkin hanya karena saya tidak ingin.
 * pre-1st: New Year Eve! Salah satu malam tahun baru terbaik dalam hidup sejauh ini. Indah sekali melihat kembang api dari gedung tertinggi di daerah Bandung Barat. Seru juga karena sembari menggila berisik-berisik bersama teman-teman baru di tempat kerja sekarang. Salah satunya sampai membuat tulisan blog tentang ini. http://yurichobilly.blogspot.com/2014/12/gua-vs-tahun-baru-2015.html 
 * 1st: Kegilaan berlanjut dengan obrolan-obrolan bersama teman-teman baru di Indigo Incubator 2014 ini. Dari siang sampai magrib kita mengobrol tentang mendekati wanita, seks, cinta, ibu, teori lahirnya konsep pernikahan, homoseksualitas. Di tengah-tengah saya sempat curhat mengenai kehidupan percintaan saya. Nasihat-nasihat Yuricho & Asyraf benar-benar membunyikan bel di dalam diri saya. Sekilas menjelaskan kenapa selama ini saya ditolak atau diacuhkan oleh wanita yang menarik buat saya. Kesimpulan yang didapat: harus lebih banyak lagi jalan dengan wanita. Saat yang hampir tepat sebenarnya. Beri saya waktu beberapa bulan untuk mendirikan fondasi dari bisnis pribadi saya, lalu saya--untuk pertama kalinya--akan menjadikan pencarian wanita menjadi salah satu prioritas hidup. 
 * 2nd: Tidur cepat tanggal 1 Januari membuat saya terbagun tengah malam. Ini saya gunakan untuk menulis Codex Vitae & Monthly Report ini.
+* 4th: Asyarf membantu membuat cover buku panduan bahasa Inggris. Rencana mau cetak dan mulai jualan. Tapi gagal. 
+* 9th: Hari ini cukup 'down'. Seminggu lalu, codex vitae tertunda lagi saat hampir selesai. Maklum, sudah mulai hari senin. Tim X-Igent sudah ada deal untuk free trial di akhir minggu. Seminggu ini memang kerja  lagi. Seru, meskipun minggu-minggu lalu lebih seru karena banyak riset. Kemarin saat ikut tim ke klien saya jadi tersadar, minggu pertama Januari sudah habis dan saya belum memulai sama sekali target untuk Startup saya. Saya harus mengingat-ingat kembali alasan saya keluar dari tempat kerja tahun lalu.
 
 # Yearly Reports
 
