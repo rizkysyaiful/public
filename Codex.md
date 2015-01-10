@@ -62,16 +62,20 @@ Bisa setuju ataupun tidak setuju. Intinya, saya sedang terobsesi dan mengeksplor
 
 Hasil dari obsesi dengan ide ini adalah tulisan yang kamu baca sekarang. :D
 
-Pertama kali menemukannya saat membaca tulisan @BusterBenson di Medium tentang [hidup seperti Hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89). Berdasarkan pengalaman beliau, Codex Vitae membuat jadi lebih tahan dengan masalah-masalah yang diluar dugaan--terlebih, malah memanfaatkannya.
+Pertama kali menemukannya saat membaca tulisan @BusterBenson di Medium tentang [hidup seperti Hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89). Berdasarkan pengalaman beliau, Codex Vitae membuat hidup jadi lebih tahan dengan masalah-masalah yang diluar dugaan--terlebih, malah memanfaatkannya.
 
 Salah satu bagian penting dari Hydra adalah [Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md). Dan wow, keren sekali konsep Codex Vitae itu.
 
 Dalam pandangan saya--belum dikonfirmasi Buster--Codex Vitae terbagi jadi dua bagian besar, pertama adalah 'jangkar'. Di 'jangkar' terdapat bagian-bagian apapun yang pada intinya menggambarkan latar kepribadian/kepercayaan/perasaan/pemikiran penulis pada semua hal **pada saat ini**--sehingga fleksibel untuk diperbarui. 'Jangkar' Buster sendiri terbagi ke 'Ide Favorit' 'Kepercayaan', & 'Kanun Personal'.
 
-Bagian selanjutnya adalah 'catatan', yang berisi Catatan Bulanan dan Tahunan. Di 'catatan' terdapat rekam jejak momen penting kehidupan penulis, termasuk yang akan mempengaruhi pada perubahaan 'jangkar'. 
+Bagian selanjutnya adalah 'catatan', yang berisi Catatan Bulanan dan Tahunan. Di 'catatan' terdapat rekam jejak momen penting kehidupan penulis, termasuk yang akan mempengaruhi pada perubahaan 'jangkar'.
 
-Manfaatnya ada dua:
-* Bagi si penulisnya sendiri, Codex Vitae menjadi fondasi selama menjalani hidup--karena setiap bulan wajib membaca ulang 'jangkar'--dan catatan sejarah selepas meninggal--karena setiap momen penting di suatu hari ada tercatat.
+Saya punya ikatan batin dengan 'catatan' di Codex Vitae. Jauh sebelum dikenalkan ke Buster oleh Medium.com, saya sebenarnya sudah banyak bereksperimen dengan catat-mencatat rekam jejak hidup (mulai 12-02-2012 di [Wordpress](http://rizkysyaiful.wordpress.com/2012/02/13/12022012/), pertengahan 2013 di [rizkysyaiful.com/diari](http://rizkysyaiful.com/diari),). 
+
+Manfaat Codex Vitae ada dua:
+* Bagi si penulisnya sendiri, Codex Vitae menjadi
+  * fondasi selama menjalani hidup--karena setiap bulan wajib membaca ulang 'jangkar'
+  * dan catatan sejarah selepas meninggal--karena setiap momen penting di suatu hari ada tercatat.
 * Bagi orang selain penulis, Codex Vitae menjadi jendela untuk memahami sisi-sisi terdalam dari penulis.
 
 Saya pribadi percaya, hanya pemahaman antar-manusia-lah awal dari maaf, sekaligus obat dari konflik.
@@ -81,11 +85,11 @@ Termasuk konflik dengan manusia lain bernama 'diri sendiri'.
 Hal lain yang keren dari Codex Vitae adalah bagian 'daftar kepercayaan' (bagian dari 'jangkar'). Codex Vitae mengajarkan kita untuk: 
 
 1. Tidak memaksakan opini kita ke orang lain sebagai fakta.
-3. Menerima kalau kepercayaan-kepercayaan kita berubah sepanjang waktu.
-3. Menerima kalau pendapat-pendapat bertentangan dari orang lain--dengan menganggap itu sebagai kepercayaan.
+3. Menerima kalau kepercayaan-kepercayaan kita bisa berubah sepanjang waktu.
+3. Menerima pendapat-pendapat orang lain yang bertentangan dengan milik kita--dengan menganggap itu sebagai kepercayaan.
 4. **Jujur**. Karena kita bebas menulis kepercayaan apapun, tidak ada kepercayaan yang salah, tidak ada proses pengambilan kepercayaan yang salah. Jujurlah ke diri sendiri dan orang lain di Codex Vitae, selama tidak memiliki kepercayaan yang mengancam kehidupan pihak lain--jelas-jelas kepercayaan macam itu hanya mempersulit hidup sendiri.
 
-_3 Januari 2015, saya membeli domain codexvitae.com untuk saya pasangkan software MediaWiki agar semua orang bisa menulis dan mengarsipkan perubahaan Codex Vitae dengan mudah--tidak semua orang nyaman dengan GitHub._
+_3 Januari 2015, saya membeli domain codexvitae.com untuk saya pasangkan software MediaWiki agar semua orang bisa menulis dan mengarsipkan perubahaan Codex Vitae dengan mudah--[Buster dkk menggunakan GitHub](http://branch.com/b/what-would-you-write-in-your-codex-vitae), menurut saya tidak semua orang nyaman dengan GitHub._
 
 ### Agile
 
@@ -109,22 +113,22 @@ Awal 2015 saya mulai menyebarkan Codex Vitae. Bukan tidak mungkin Codex Vitae ak
 
 Ide ini bermula dari kisah nyata survey perawat tentang hal yang paling disesali orang-orang sekarat di rumah sakit.
 
-Saya mendefiniskan momen sebagai pengalaman berkesan bersama orang-orang saya cintai. Lengkapnya, sudah saya tulis di [rizkysyaiful.com](http://rizkysyaiful.com/kebahagiaan-hidup).
+Saya mendefinisikan momen sebagai pengalaman berkesan bersama orang-orang saya cintai. Lengkapnya, sudah saya tulis di [rizkysyaiful.com](http://rizkysyaiful.com/kebahagiaan-hidup), Juli 2013.
 
-Ide ini lalu ditambah dengan ide Quality Time di Codex Vitae-nya Buster. Beliau juga bilang bahwa yang terpenting dari hidup adalah momen. Bedanya Buster memasukan waktu saat merenung sendiri sebagai momen. Juga waktu saat seseorang melakukan apa yang dia sukai.
+Ide ini lalu ditambah dengan ide Quality Time di Codex Vitae-nya Buster. Beliau juga bilang bahwa yang terpenting dari hidup adalah momen. Bedanya, Buster memasukan waktu saat merenung sendiri sebagai momen. Juga waktu saat seseorang melakukan apa yang dia sukai.
 
 Ide yang bagus, karena lebih abstrak dan umum. Tidak terpikir oleh saya, mungkin karena saya lupa bahwa
 
 1. Intim dengan diri sendiri adalah juga intim dengan seseorang.
 2. Apa yang saya sukai banyak yang terkait ke berhubungan langsung dengan orang lain.
 
-Saya mengadopsinya juga.
+Saya mengadopsi definisi momen Buster.
 
 ### Prima Kausa
 
 Saya punya ikatan spesial dengan ide ini. Dulu sempat memikirkannya secara mandiri waktu SMP (waktu itu belum baca Wikipedia hingga tahu idenya bernama Prima Kausa). Suatu malam sendiri di kamar, saya memutuskan tidak mau menerima agama orang tua saya begitu saja sebagai kebenaran. Lalu saya membayangkan diri saya sebagai anak remaja yang baru keluar dari hutan tempat saya tumbuh sendiri--sebagai simulasi lepas dari doktrin dan dogma apapun.
 
-Bergulat dengan ide "tidak ada tuhan selain Tuhan"-nya dan cerita "Ibrahim mencari Tuhan" di Islam membuat saya menemukan Prima Kausa. 
+Bergulat dengan ide "tidak ada tuhan selain Tuhan"-nya dan cerita "Ibrahim mencari tuhan" di Islam membuat saya menemukan Prima Kausa. 
 
 ### Kejujuran Radikal
 
@@ -140,21 +144,27 @@ Setelah itu dia menulis buku berjudul "Cintai Dirimu, Seolah Hidupmu Bergantung 
 
 Nampaknya ke depan, ide ini (dan saudara-saudaranya) akan menyebar sebagai tren. Berikut salah satu saudaranya [orang yang benar-benar harus kamu nikahi](https://www.youtube.com/watch?v=P3fIZuW9P_M).
 
+### Tujuh Mode Hidup
+
+Lagi-lagi Buster. Kali ini dia mengenalkan tujuh konsep mode hidup. Dengan ide ini, kita jadi tidak memaksakan diri untuk terus produktif, atau terus "getting things done."
+
+Masih mencerna dan mencoba-coba idenya. Lengkapnya bisa dibaca di [Hidup Seperti Hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89#ace2).
+
 ### Kalama Sutta
 
 Saat berkunjung ke kampung Kalama, Siddharta Gautama menemukan orang-orang mengeluh. Mereka kebingungan karena selama ini banyak pendakwah datang silih berganti menceritakan hal yang berbeda. Buruknya, mereka bahkan saling menjelek-jelekan satu sama lain.
 
-Siddharta Gautama--sebagai salah satu pendakwah lain--memberi nasihat yang kira-kira berbunyi, "jangan percaya pada siapapun, termasuk pada saya, temukan sendiri." Lengkapnya silahkan baca laman [Wikipedia ini](http://en.wikipedia.org/wiki/Kalama_Sutta#Discerning_Religious_Teachings).
+Siddharta Gautama--sebagai salah satu pendakwah lain--memberi nasihat yang kira-kira berbunyi, "jangan langsung percaya pada siapapun, termasuk pada saya, temukan sendiri kebenarannya." Lengkapnya silahkan baca laman [Wikipedia ini](http://en.wikipedia.org/wiki/Kalama_Sutta#Discerning_Religious_Teachings).
 
-Menemukan sedikit hubungannya dengan Codex Vitae? Ternyata ide semacam-semacam ini sudah ada sejak 2,5 abad lalu.
+Menemukan sedikit hubungannya dengan Codex Vitae? Ternyata ide bahwa 'lebih mudah memandang kepercayaan sebagai sesuatu yang relatif' sudah ada sejak 2,5 abad lalu.
 
 ### Hidup adalah Penderitaan
 
-Berbeda dengan Kalama Sutta, kali ini saya tidak setuju dengan Bang Sidd, yang bilang bahwa hidup itu adalah penderitaan. (Paralel dengan ide Schopenhaur dan Soe Hoe Gie bahwa anugrah terbaik adalah tidak pernah dilahirkan.)
+Berbeda dengan Kalama Sutta, kali ini saya tidak setuju dengan Abang Sidd, yang bilang bahwa hidup itu adalah penderitaan. (Paralel dengan ide Kakek Schopenhaur dan Koh Soe Hoe Gie bahwa anugrah terbaik adalah tidak pernah dilahirkan.)
 
 Saya belum bisa menjelaskan dengan gamblang. Sejauh ini meski kadang-kadang menderita, saya merasa hidup bukan penderitaan. Padahal saya sudah membayangkan kondisi-kondisi terburuk yang mungkin terjadi pada saya.
 
-Mungkin hanya karena saya tidak ingin.
+Mungkin hanya karena saya tidak ingin menderita, saya suka menginternalisasi ide "diberi kesempatan ada saja harusnya saya sudah bersyukur."
 
 ## Kepercayaan
 
@@ -203,7 +213,7 @@ Mungkin hanya karena saya tidak ingin.
 10. Saya menghargai dan mencoba mempraktikan nasihat-nasihat dari semua orang, yang intinya saya tanggap berdasar pada poin 1 sampai poin 7. (nasihat-nasihat tersebut bisa dibaca di Codex Vitae ini)
 
 ### Tentang Ekonomi Pribadi
-1. Manusia saling terhubung satu sama lain.
+1. Hak milik itu bermanfaat untuk menumbuhkan meritokrasi.
 2. Seseorang sepatutnya hanya menuntut kompensasi dari manfaat yang dia berikan ke orang lain, yang juga tidak mengganggu orang lain atau jejaring manusia secara lebih luas. 
 3. Saya hanya mendapatkan kompensasi moneter (contoh: upah) dari aktualisasi aktif diri saya (poin 5 sikap hidup) dalam menjadi manfaat bagi orang lain & hasil pengelolaan [aset kapital](http://en.wikipedia.org/wiki/Capital_asset) yang saya kumpulkan. Tidak ada tempat untuk hasil curian, riba (contoh: bunga bank), _money game_, hasil pengelolaan aset finansial, atau gaji buta.
 4. Saya hidup dengan konsumsi & kepemilikan barang yang seminimalis, seefektif, & seefisien mungkin.
@@ -232,12 +242,12 @@ Mungkin hanya karena saya tidak ingin.
 
 ### Tentang Nasionalisme dan Negara
 1. Monopoli angkatan bersenjata dan perlindungan mereka adalah anugrah pertama dari negara, hargai itu.
-2. Administrasi yang mengorganisir dan mengintegrasikan segala urusan kependudukan adalah anugrah kedua dari negara, hargai itu. Desak pemerintah untuk memperbaikinya jika masih buruk--langsung bantu akan lebih baik.
-3. Hilangkan pola pikir zaman kerajaan bahwa warga negara adalah milik pemerintah. Pemerintah Indonesia bahkan tidak memiliki segala kekayaan di tanah, laut, dan udara. Kitalah pemiliknya.
-4. Semakin cerdas warga negara, semakin berkurang peran pemerintah dalam hal menentukan aturan-aturan yang akan mempengaruhi warga negara.
-5. Oleh karena poin 3 & 4, berpartisipasilah seaktif mungkin terhadap perancangan dan penegakan aturan yang mempengaruhi hidup kita, karena kita harus menaati apapun aturan yang disahkan.
+2. Tatanan sipil yang mengorganisir dan mengintegrasikan segala urusan kependudukan adalah anugrah kedua dari negara, hargai itu. Desak pemerintah untuk memperbaikinya jika masih buruk--langsung bantu akan lebih baik.
+3. Hilangkan pola pikir zaman kerajaan bahwa warga negara adalah milik pemerintah. Pemerintah Indonesia bahkan tidak memiliki segala kekayaan di tanah, laut, dan udara. Kitalah pemiliknya. 
+4. Semakin cerdas warga negara, semakin berkurang peran pemerintah dalam hal menentukan aturan-aturan yang akan mempengaruhi warga negara. Semakin sadar warga negara, kalau negara/presiden/pemerintahan hanyalah alat mereka.
+5. Oleh karena poin 3 & 4, berpartisipasilah seaktif mungkin terhadap perancangan dan penegakan aturan yang mempengaruhi hidup kita, karena kita harus ikut menegakan tatanan sipil dengan menaati apapun aturan yang disahkan.
 6. Tekan pemerintah untuk memperluas ruang dan efektifitas partisipasi kita terkait poin 4 & 5.
-7. Pilih orang-orang di pemerintahan **hanya** dari rekam jejak dia. Aturan yang baik akan sia-sia jika tidak ditegakkan oleh orang-orang profesional.
+7. Pilih orang-orang di pemerintahan **hanya** dari rekam jejak dia. Aturan yang baik hanya akan jadi tinta jika tidak ditegakkan oleh orang-orang profesional.
 8. Tekan pemerintah untuk memperbesar ruang dan kekuasaan kita dalam memilih orang. 
 9. Kebangsaan (ikatan-ikatan kebersamaan) ada jauh sebelum munculnya konsep negara.
 10. Saya punya kebangsaan Indonesia, namun tetap menghargai super-set dan sub-set kebangsaan lain. Untuk super-set, saya punya rasa kebangsaan sebagai bagian umat manusia, sebagai mongoloid, sebagai austronesia, sebagai muslim. Untuk sub-set, saya punya rasa kebangsaan minangkabau, warga yang besar di tangerang.
@@ -258,22 +268,27 @@ Mungkin hanya karena saya tidak ingin.
 7. berani menawarkan diri untuk memeberi saran pada orang lain--dan jangan sampai membuat marah.
 8. Ceritakan kebaikan orang di depan yang bersangkutan, lebih-lebih saat yang bersangkutan tidak ada.
 9. Diam saat ada yang mulai menceritakan kejelekan orang lain di belakang. Tunjukan muka tidak nyaman dan tinggalkan saat itu terus berlanjut.
-10. 
+10. Maksimalkan antusiasme, ketulusan (B. Inggris: earnest), dan spontanitas. Hampir semua orang rindu dengan masa kecil mereka saat memiliki tiga hal tersebut.
 
-## Personal Canon
+## Kanun Personal
 
-### Articles I've come back to a bunch of times
+Kanun berarti bacaan penting. Di era sekarang, saya mendefinisikan kanun juga dalam bentuk slide presentasi, video, atau apapun.
 
-* [Ten Reasons Why Our Universe Is A Virtual Reality](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) - Brian Whitworth
+### Artikel yang acap kali saya baca
 
-### Books I've read that have changed how I see the world
+* [How to Be an Expert in Changing World](http://paulgraham.com/ecw.html) - _"change has been accelerating since the paleolithic era. Ideas beget ideas."_ - Paul Graham
+* [Mean](http://paulgraham.com/mean.html)  - _"Increasingly you win not by fighting to get control of a scarce resource, but by having new ideas and building new things."_ - Paul Graham
+* []
 
-* [Apologia Socratis] (http://en.wikipedia.org/wiki/Apology_%28Plato%29) - Plato - _Baca ini di perpustakaan sekolah. Menyentuh Rizky muda tentang dunia berpikir kritis. Beserta konsekuensi-konsekuensinya._
+### Buku yang cukup drastis mengubah konfigurasi neuron di otak saya
+
+* [Apologia Socratis](http://en.wikipedia.org/wiki/Apology_%28Plato%29) - Plato - _Baca ini di perpustakaan sekolah. Menyentuh Rizky muda tentang dunia berpikir kritis. Beserta konsekuensi-konsekuensinya._
 * [The Mistery of Capital](http://www.amazon.com/The-Mystery-Capital-Capitalism-Everywhere/dp/0465016154) - Hernando De Soto - _Hadiah ulang tahun dari seseorang saat kelas dua SMA. Ide tentang sistem aset manajemen yang baik sebagai dasar kapitalisme, mendekatkan Rizky muda ke pragmatisme dibanding idealisme sebagai dasar ekonomi._
 
-### My own favorite writing
+### Tulisan menarik yang saya tulis sendiri
 
-* [Better than meditation](https://medium.com/better-humans/better-than-meditation-12532d29f6cd?recommendNoteId=fd448809351b): free-writing as an alternative to meditation
+* [Mungkin Lebih Baik Indonesia Tidak Merdeka](https://medium.com/indonesia-raya/mungkin-lebih-baik-indonesia-tidak-merdeka-90f92f781582)
+* [Gusur: Surat untuk Para Pendemo di Stasiun UI, dari Anak UI yang Pernah Jadi Korban Gusur](http://www.anakui.com/2013/05/30/gusur-surat-untuk-para-pendemo-di-stasiun-ui-dari-anak-ui-yang-pernah-jadi-korban-gusur/)
 
 # Monthly Reports
 
@@ -312,8 +327,9 @@ Mungkin hanya karena saya tidak ingin.
 * pre-1st: New Year Eve! Salah satu malam tahun baru terbaik dalam hidup sejauh ini. Indah sekali melihat kembang api dari gedung tertinggi di daerah Bandung Barat. Seru juga karena sembari menggila berisik-berisik bersama teman-teman baru di tempat kerja sekarang. Salah satunya sampai membuat tulisan blog tentang ini. http://yurichobilly.blogspot.com/2014/12/gua-vs-tahun-baru-2015.html 
 * 1st: Kegilaan berlanjut dengan obrolan-obrolan bersama teman-teman baru di Indigo Incubator 2014 ini. Dari siang sampai magrib kita mengobrol tentang mendekati wanita, seks, cinta, ibu, teori lahirnya konsep pernikahan, homoseksualitas. Di tengah-tengah saya sempat curhat mengenai kehidupan percintaan saya. Nasihat-nasihat Yuricho & Asyraf benar-benar membunyikan bel di dalam diri saya. Sekilas menjelaskan kenapa selama ini saya ditolak atau diacuhkan oleh wanita yang menarik buat saya. Kesimpulan yang didapat: harus lebih banyak lagi jalan dengan wanita. Saat yang hampir tepat sebenarnya. Beri saya waktu beberapa bulan untuk mendirikan fondasi dari bisnis pribadi saya, lalu saya--untuk pertama kalinya--akan menjadikan pencarian wanita menjadi salah satu prioritas hidup. 
 * 2nd: Tidur cepat tanggal 1 Januari membuat saya terbagun tengah malam. Ini saya gunakan untuk menulis Codex Vitae & Monthly Report ini.
-* 4th: Asyarf membantu membuat cover buku panduan bahasa Inggris. Rencana mau cetak dan mulai jualan. Tapi gagal. 
-* 9th: Hari ini cukup 'down'. Seminggu lalu, codex vitae tertunda lagi saat hampir selesai. Maklum, sudah mulai hari senin. Tim X-Igent sudah ada deal untuk free trial di akhir minggu. Seminggu ini memang kerja  lagi. Seru, meskipun minggu-minggu lalu lebih seru karena banyak riset. Kemarin saat ikut tim ke klien saya jadi tersadar, minggu pertama Januari sudah habis dan saya belum memulai sama sekali target untuk Startup saya. Saya harus mengingat-ingat kembali alasan saya keluar dari tempat kerja tahun lalu.
+* 9th: Hari ini cukup 'down'. Seminggu lalu, codex vitae tertunda lagi saat hampir selesai. Maklum, sudah mulai hari senin. Tim X-Igent sudah ada deal untuk free trial di akhir minggu. Seminggu ini memang kerja lagi. Seru, meskipun minggu-minggu lalu lebih seru karena banyak riset. Kemarin saat ikut tim ke klien saya jadi tersadar, minggu pertama Januari sudah habis dan saya belum memulai sama sekali target untuk Startup saya. Saya harus mengingat-ingat kembali alasan saya keluar dari tempat kerja tahun lalu. Malamnya, pulang dari klien, saya langsung curhat tentang kendala internal saya ini. Senangnya mereka mau mengerti.
+* 10th: Pagi-paginya sesi khusus Sprint Retrospective personal. Fondasi Retrospective yang bagus adalah tim yang saling mengenal dan menerima the good, the bad, and the ugly masing-masing. Oleh karena itu, saya mengadakan sesi 'sharing personality'. Sebagai host, saya banyak menggunakan konsep MBTI tanpa mereka sadari. Saya juga menyuruh mereka untuk menulis tujuan hidup masing-masing--yang Senin nanti akan digunakan untuk membuat Codex Vitae mereka. Momen yang menyenangkan, melihat ekspresi muka mereka saat saling memuji dan membuka kejelekan masing-masing. Senang! 
+* 10th: Selepas siang bersama tim X-Igent, saya entah mengapa tidur sampai jam 5 sore. Setelah itu saya lanjutkan Codex Vitae saya dan setup codexvitae.com. Kondisi di inkubator sedang sepi karena akhir pekan. Pas sekali untuk intim dengan diri sendiri. Momen!  
 
 # Yearly Reports
 
