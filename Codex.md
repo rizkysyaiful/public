@@ -9,52 +9,64 @@
 
 ## Ritual Harian
 
-Ritual ini untk menginternalisasi hal-hal penting setiap hari. Pagi hari dipilih karena jumlah energi paling maksimal dan kemudahan untuk memicu gelombang alpha. Seharusnya tidak lama berlangsung dan bisa dilakukan saat kondisi jauh dari peradaban.
+Lakukan tiap pagi segera selepas bangun. Pagi hari dipilih karena jumlah energi paling maksimal dan kemudahan untuk memicu gelombang alpha. Seharusnya tidak lama berlangsung dan bisa dilakukan saat kondisi jauh dari peradaban.
 
-### 1. Picu Gelombang Alpha
+### 1. Persiapan
 
-1. Solat Subuh
-2. Bisa juga dengan musik atau meditasi
+1. Picu gelombang alpha dengan solat subuh, musik atau meditasi.
+2. Ambil pose janin--pose apapun yang penting konsisten dan hanya dilakukan di ritual ini.
+3. Proyeksikan sedang melihat diri sendiri di depan muka.
 
 ### 2. Baca Mantra
 
-1. **MOMEN!:** Hey Rizky! Pindahkan pantat ke tempat yang peluang momen lebih besar terjadi. Jika ada penghambat dari diri sendiri, minimalisir dulu hambatan tersebut.
-2. **TARIK NAPAS!:** Hey Rizky! Buka mata dan telinga lebar-lebar. Berhenti dan tarik napas dalam-dalam kalau terjadi sesuatu yang bertentangan dengan kepercayaan-kepercayaan mu.
-3. **HEMBUSKAN!:** Hampir semua kepercayaan-kepercayan tentang saya dan dunia ini hanyalah suara-suara yang melewati otak saya dan 
-4. 
-5. Many of my beliefs about myself and the world are really just automated voices passing off beliefs that have been hard-coded in my head over time as indisputable facts. I shouldn't assume they're always right.
+1. **MOMEN!:** Hey Rizky! Pindahkan dirimu ke tempat yang peluang momen lebih besar terjadi. Jika ada penghambat dari diri sendiri, minimalisir dulu hambatan tersebut.
+2. **KONFLIK!:** Hey Rizky! Buka mata dan telinga lebar-lebar. Berhenti dan tarik napas dalam-dalam kalau terjadi sesuatu yang bertentangan dengan kepercayaan-kepercayaan mu. Keluar. Tarik diri. Pindah ke sudut pandang alien di atas sana. Hargai dirimu dengan kepercayaanmu, orang lain dengan kepercayaannya, dan dunia dengan kondisinya.
+3. **TERBUKA!:** Hey Rizky! Hampir semua kepercayaan-kepercayan tentang kamu dan dunia ini, hanyalah suara-suara yang terlalu sering hilir-mudik di otak, hingga tersangkut, sampai kamu anggap sebagai fakta. Jangan berasumsi mereka selalu benar. Selalu ada peluang bagi setiap kepercayaan lain untuk menyangkut di otak mu.
+4. **JUJUR!:** Hey Rizky! Hidup berdasarkan kepercayaan sendiri itu, membahagiakan.
 
-## Review Every Month 
-Hal-hal yang 
-Things I’d like to check in on the 1st of every month.
+### 3. Baca Tujuan Hidup
 
-1. Review my Favorite Ideas
-2. Review the Beliefs
-3. Review the Personal Canon
-4. Write a new Monthly Report and share
-5. Review/update this list and the Review Every Day list
+(merujuk ke bagian Kepercayaan, bagian Tentang Tujuan Hidup, poin 5 sampai 9)
 
-## Review Every Year
-Things I've learned and want to remind myself of every year on my birthday (May 28).
+### 4. Penutupan
 
-1. Snapshot this file and archive it as CodexYYYY.md
-2. Review my Monthly Reports from the year
-3. Review my Yearly Reports
-4. Write a new Yearly Review and share
-5. Review/update this list
+1. Tutup mata, tarik napas dalam, hembuskan.
+2. Baca "Saya mungkin tidak ada. Saya pasti tidak penting & maha kecil."
+3. Terik napas dalam, hembuskan.
+4. Baca "Saya akan cintai diri saya."
+
+## Ritual Bulanan
+
+Luangkan waktu tiap tanggal 1.
+
+1. Tinjau (atau perbarui) Ide Favorit.
+2. Tinjau (atau perbarui) Kepercayaan.
+3. Tinjau (atau perbarui) Tulisan Berpengaruh.
+4. Finalkan Laporan Bulan terbaru dan bagikan.
+5. Tinjau (atau perbarui) Ritual Harian dan Ritual Bulanan.
+
+## Ritual Tahunan
+
+Luangkan waktu tiap malam tanggal 29 April jam 7:00 - 9:00 PM.
+
+1. Baca Laporan Tahunan mulai dari paling lama sampai yang terbaru.
+2. Baca Laporan Bulanan satu tahun ke belakang.
+3. Tulis Laporan Tahunan satu tahun ke belakang dan bagikan.
+4. Tinjau (atau perbarui) Ritual Tahunan.
 
 ## Ide Favorit
-Daftar ide-ide yang menyangkut otak. Bisa setuju ataupun tidak setuju, intinya, saya terobsesi dengan idenya. 
 
-### Codex Vitae & Bingkai Kerja Hydra
+Bisa setuju ataupun tidak setuju. Intinya, saya sedang terobsesi dan mengeksplorasi ide-ide di bawah ini. 
 
-Hasil dari obsesi dengan ide ini adalah tulisan yang kamu baca sekarang.
+### Codex Vitae
 
-Pertama kali menemukannya saat membaca tulisan @BusterBenson di Medium tentang [bingkai kerja hidup Hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89). Berdasarkan pengalaman beliau, bingkai hidupnya jadi lebih tahan dengan masalah-masalah yang diluar dugaan--terlebih, malah memanfaatkannya.
+Hasil dari obsesi dengan ide ini adalah tulisan yang kamu baca sekarang. :D
+
+Pertama kali menemukannya saat membaca tulisan @BusterBenson di Medium tentang [hidup seperti Hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89). Berdasarkan pengalaman beliau, Codex Vitae membuat jadi lebih tahan dengan masalah-masalah yang diluar dugaan--terlebih, malah memanfaatkannya.
 
 Salah satu bagian penting dari Hydra adalah [Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md). Dan wow, keren sekali konsep Codex Vitae itu.
 
-Dalam pandangan saya--belum dikonfirmasi Buster--Codex Vitae terbagi jadi dua bagian besar, pertama adalah 'jangkar'. Di 'jangkar' terdapat bagian-bagian apapun yang pada intinya menggambarkan latar kepribadian/kepercayaan/perasaan/pemikiran penulis pada semua hal **pada saat ini**--sehingga fleksibel untuk diperbarui. 'Jangkar' Buster sendiri terbagi ke 'Ide Favorit' 'Kepercayaan', & 'Kanon Personal'.
+Dalam pandangan saya--belum dikonfirmasi Buster--Codex Vitae terbagi jadi dua bagian besar, pertama adalah 'jangkar'. Di 'jangkar' terdapat bagian-bagian apapun yang pada intinya menggambarkan latar kepribadian/kepercayaan/perasaan/pemikiran penulis pada semua hal **pada saat ini**--sehingga fleksibel untuk diperbarui. 'Jangkar' Buster sendiri terbagi ke 'Ide Favorit' 'Kepercayaan', & 'Kanun Personal'.
 
 Bagian selanjutnya adalah 'catatan', yang berisi Catatan Bulanan dan Tahunan. Di 'catatan' terdapat rekam jejak momen penting kehidupan penulis, termasuk yang akan mempengaruhi pada perubahaan 'jangkar'. 
 
@@ -75,6 +87,23 @@ Hal lain yang keren dari Codex Vitae adalah bagian 'daftar kepercayaan' (bagian 
 
 _3 Januari 2015, saya membeli domain codexvitae.com untuk saya pasangkan software MediaWiki agar semua orang bisa menulis dan mengarsipkan perubahaan Codex Vitae dengan mudah--tidak semua orang nyaman dengan GitHub._
 
+### Agile
+
+Adalah sebuah kata sifat, yang juga berarti "tangkas"; "cepat namun tidak mudah jatuh"; "galir".
+
+Konsep ini diekstrak dari praktik-praktik baru yang ditemukan pada pengembang software di tahun 80-an & 90-an. Praktik-praktik tersebut menekankan pembuatan software pada
+
+1. visi besar dengan iterasi singkat,
+2. adaptasi tinggi dengan kondisi bisnis, dan
+3. penghargaan tinggi ke orang-orang di dalamnya.
+
+Visi besar iterasi singkat? Fleksibilitas untuk beradaptasi dengan dunia nyata? Penghargaan tinggi ke orang? Tiga hal tersebut juga menjadi kunci di Codex Vitae.
+
+Yap. Codex Vitae adalah salah satu pendekatan agile ke kehidupan personal. Tidak heran jika @BusterBenson dan mereka yang angkatan pertama terobsesi dengan Codex Vitae (termasuk saya sendiri) adalah seorang pengembang software.
+
+Saya juga seorang pelatih atau konsultan Agile di software development. Dengan senang hati saya akan memperkenalkan Codex Vitae ke para pengembang software yang saya latih. Aset paling penting dan dominan di pembuatan software adalah orang-orangnya. Maka menyentuh sisi personal dari mereka akan secara signifikan mendukung pengembangan.
+
+Awal 2015 saya mulai menyebarkan Codex Vitae. Bukan tidak mungkin Codex Vitae akan merebak ke orang awam.
 
 ### Momen: Kebahagiaan Utama Hidup
 
@@ -95,7 +124,7 @@ Saya mengadopsinya juga.
 
 Saya punya ikatan spesial dengan ide ini. Dulu sempat memikirkannya secara mandiri waktu SMP (waktu itu belum baca Wikipedia hingga tahu idenya bernama Prima Kausa). Suatu malam sendiri di kamar, saya memutuskan tidak mau menerima agama orang tua saya begitu saja sebagai kebenaran. Lalu saya membayangkan diri saya sebagai anak remaja yang baru keluar dari hutan tempat saya tumbuh sendiri--sebagai simulasi lepas dari doktrin dan dogma apapun.
 
-Bergulat dengan ide "tidak ada tuhan selain Tuhan"-nya Islam membuat saya menemukan menemukan Prima Kausa. 
+Bergulat dengan ide "tidak ada tuhan selain Tuhan"-nya dan cerita "Ibrahim mencari Tuhan" di Islam membuat saya menemukan Prima Kausa. 
 
 ### Kejujuran Radikal
 
@@ -148,7 +177,7 @@ Mungkin hanya karena saya tidak ingin.
 6. Tujuan lain hidup saya adalah menguasai sedalam mungkin ilmu tentang kebahagiaan hidup manusia--secara individu maupun kolektif--, menginternalisasikannya, lalu menyebarkannya.
 7. Tujuan lain hidup saya adalah menguasai teknik paling optimal untuk menciptakan solusi baru berbasis teknologi, menggunakannya, lalu menyebarkannya.
 8. Kombinasi poin 6 dan 7 adalah menciptakan teknologi yang menyentuh hati manusia.
-8. Tujuan lain hidup saya adalah membuat saya tidak khawatir sama sekali saat melepaskan anak-anak dan adik-adik saya ke kehidupan mandirinya.
+9. Tujuan lain hidup saya adalah membuat saya tidak khawatir sama sekali saat melepaskan anak-anak dan adik-adik saya ke kehidupan mandirinya.
 
 ### Tentang Sikap Hidup
 1. Saya harus sayangi diri saya sendiri.
@@ -171,7 +200,7 @@ Mungkin hanya karena saya tidak ingin.
 7. Karena poin 3, saat tidak perlu takut mati di kondisi sedang tidak menerima keadilan akibat perlakuan orang lain. Selama saya hidup saya akan menegakan keadilan sekuatnya, kalaupun belum berhasil dan saya mati, akhirnya akan tetap adil.
 8. Karena poin 3, Tuhan mengintervensi setiap dunia (tidak hanya dunia yang sedang saya indra ini) dengan mengirimkan--dengan definisi atau cara apapun itu--para pembawa pesan yang bertugas menyebarkan pesan yang berkisar pada poin 1 sampai poin 7.
 9. Muhammad putra Abdullah (lahir tahun 570) adalah salah satu pembawa pesan Tuhan.
-10. Saya menghargai dan mencoba mempraktikan nasihat dari semua orang yang mendasarkan diri pada poin 1 sampai poin 7. (nasihat-nasihat tersebut bisa dibaca di Codex Vitae ini)
+10. Saya menghargai dan mencoba mempraktikan nasihat-nasihat dari semua orang, yang intinya saya tanggap berdasar pada poin 1 sampai poin 7. (nasihat-nasihat tersebut bisa dibaca di Codex Vitae ini)
 
 ### Tentang Ekonomi Pribadi
 1. Manusia saling terhubung satu sama lain.
